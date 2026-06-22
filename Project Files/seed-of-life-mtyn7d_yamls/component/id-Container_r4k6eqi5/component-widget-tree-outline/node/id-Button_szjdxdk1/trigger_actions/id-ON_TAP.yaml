@@ -1,0 +1,6 @@
+rootAction:
+  key: eorbaype
+  action:
+    key: zff1x746
+trigger:
+  triggerType: ON_TAP

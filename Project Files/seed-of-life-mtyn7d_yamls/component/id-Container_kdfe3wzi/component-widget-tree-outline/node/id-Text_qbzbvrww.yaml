@@ -1,0 +1,20 @@
+key: Text_qbzbvrww
+type: Text
+props:
+  text:
+    themeStyle: HEADLINE_MEDIUM
+    autoSize: true
+    selectable: true
+    textValue:
+      inputValue: Ai Chat Active!
+      mostRecentInputValue: Ai Chat Active!
+    heightValue:
+      inputValue: 1.5
+      mostRecentInputValue: 1.5
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+valueKey: {}

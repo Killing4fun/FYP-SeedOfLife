@@ -1,0 +1,19 @@
+key: Text_7a0nipzt
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    selectable: false
+    textValue:
+      inputValue: "Your Account Has Been\nCreated!"
+    fontSizeValue:
+      inputValue: 22
+    fontWeightValue:
+      inputValue: w700
+    textAlignValue:
+      inputValue: ALIGN_CENTER
+  alignment:
+    xValue:
+      inputValue: -0.116
+    yValue:
+      inputValue: -0.273

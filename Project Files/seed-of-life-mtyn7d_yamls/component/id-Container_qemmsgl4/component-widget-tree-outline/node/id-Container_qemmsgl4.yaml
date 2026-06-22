@@ -1,0 +1,10 @@
+key: Container_qemmsgl4
+type: Container
+props:
+  container:
+    boxDecoration:
+      colorValue:
+        inputValue:
+          value: "0"
+name: savenewplant
+isDummyRoot: true

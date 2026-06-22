@@ -1,0 +1,28 @@
+key: Text_c7igsw2d
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    selectable: false
+    textValue:
+      inputValue: https://platform.openai.com
+      mostRecentInputValue: https://platform.openai.com
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY
+      mostRecentInputValue:
+        themeColor: PRIMARY
+    fontWeightValue:
+      inputValue: w600
+  padding:
+    type: FF_PADDING_ONLY
+    topValue:
+      inputValue: 4
+      mostRecentInputValue: 4
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+valueKey: {}

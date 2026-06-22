@@ -1,0 +1,22 @@
+key: Text_l76saz5n
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    selectable: false
+    textValue:
+      inputValue: "You Have Added\nNew Plant"
+    fontSizeValue:
+      inputValue: 25
+    colorValue:
+      inputValue:
+        value: "4283785791"
+    fontWeightValue:
+      inputValue: w700
+    textAlignValue:
+      inputValue: ALIGN_CENTER
+  alignment:
+    xValue:
+      inputValue: -0.056
+    yValue:
+      inputValue: -0.225

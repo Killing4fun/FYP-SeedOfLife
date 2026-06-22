@@ -1,0 +1,22 @@
+key: Container_dvh7kso7
+type: Container
+props:
+  container:
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: 452.2
+      height:
+        pixelsValue:
+          inputValue: 405.44444444444446
+    boxDecoration:
+      borderRadius:
+        type: FF_BORDER_RADIUS_ALL
+        allValue:
+          inputValue: 25
+      boxShape: FF_BOX_SHAPE_RECTANGLE
+      colorValue:
+        inputValue:
+          themeColor: SECONDARY_BACKGROUND
+    animationDurationValue:
+      inputValue: 100

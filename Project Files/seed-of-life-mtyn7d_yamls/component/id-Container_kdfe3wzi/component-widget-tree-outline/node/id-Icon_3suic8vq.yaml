@@ -1,0 +1,25 @@
+key: Icon_3suic8vq
+type: Icon
+props:
+  icon:
+    sizeValue:
+      inputValue: 90
+      mostRecentInputValue: 90
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY
+      mostRecentInputValue:
+        themeColor: PRIMARY
+    iconDataValue:
+      inputValue:
+        codePoint: 61616
+        family: MaterialIcons
+        matchTextDirection: false
+        name: forum_outlined
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+valueKey: {}

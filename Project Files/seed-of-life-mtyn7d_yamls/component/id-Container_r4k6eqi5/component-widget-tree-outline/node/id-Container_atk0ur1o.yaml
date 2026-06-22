@@ -1,0 +1,21 @@
+key: Container_atk0ur1o
+type: Container
+props:
+  container:
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: 765.411111111111
+      height:
+        pixelsValue:
+          inputValue: 453.4
+    boxDecoration:
+      borderRadius:
+        type: FF_BORDER_RADIUS_ALL
+        allValue:
+          inputValue: 25
+      colorValue:
+        inputValue:
+          themeColor: SECONDARY_BACKGROUND
+    animationDurationValue:
+      inputValue: 100
