@@ -1,0 +1,31 @@
+name: aiChat_Component
+node:
+  key: Container_vjx2o0xv
+classModel:
+  stateFields:
+    - parameter:
+        identifier:
+          name: chatHistory
+          key: x0t40
+        dataType:
+          scalarType: JSON
+    - parameter:
+        identifier:
+          name: aiResponding
+          key: z1ss2
+        defaultValue: {}
+        dataType:
+          scalarType: Boolean
+          nonNullable: true
+      serializedDefaultValue:
+        - "false"
+    - parameter:
+        identifier:
+          name: inputContent
+          key: h7fdu
+        defaultValue: {}
+        dataType:
+          scalarType: String
+          nonNullable: true
+      serializedDefaultValue:
+        - ""
