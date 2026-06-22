@@ -1,0 +1,15 @@
+key: Container_o2gdosml
+type: Container
+props:
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues:
+  parameterPasses: {}
+  widgetClassNodeKeyRef:
+    key: Container_7kalp9io
+valueKey: {}
+componentClassKeyRef:
+  key: Container_7kalp9io

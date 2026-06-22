@@ -1,0 +1,33 @@
+key: Container_5yw16a6z
+type: Container
+props:
+  container:
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: 100
+          mostRecentInputValue: 100
+      height:
+        pixelsValue:
+          inputValue: 24
+          mostRecentInputValue: 24
+    boxDecoration:
+      boxShadow: {}
+      image:
+        type: FF_IMAGE_TYPE_NETWORK
+    maxDimensions: {}
+    minDimensions: {}
+    animationDurationValue:
+      inputValue: 100
+      mostRecentInputValue: 100
+  responsiveVisibility:
+    phoneHidden: true
+    tabletHidden: true
+    tabletLandscapeHidden: false
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+name: desktopSpacing
+parameterValues: {}
+valueKey: {}

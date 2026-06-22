@@ -1,0 +1,36 @@
+key: Column_ftcfzhbc
+type: Column
+props:
+  column:
+    mainAxisAlignment: main_axis_start
+    scrollable: false
+    primary: false
+    listSpacing: {}
+    minSizeValue:
+      inputValue: false
+      mostRecentInputValue: false
+  padding:
+    type: FF_PADDING_ALL
+    allValue:
+      inputValue: 0
+      mostRecentInputValue: 0
+  alignment:
+    xValue:
+      inputValue: 0
+      mostRecentInputValue: 0
+    yValue:
+      inputValue: -1
+      mostRecentInputValue: -1
+  expanded:
+    expandedType: EXPANDED
+  responsiveVisibility: {}
+  queryLoadingWidget:
+    loadingWidget:
+      defaultLoadingIndicator: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+name: column-chat
+parameterValues: {}
+valueKey: {}

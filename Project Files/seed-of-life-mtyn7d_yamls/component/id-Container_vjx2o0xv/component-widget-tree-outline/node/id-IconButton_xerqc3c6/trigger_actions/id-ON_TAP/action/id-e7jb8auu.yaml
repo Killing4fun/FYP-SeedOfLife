@@ -1,0 +1,56 @@
+localStateUpdate:
+  updates:
+    - fieldIdentifier:
+        name: aiResponding
+        key: z1ss2
+      setValue:
+        inputValue:
+          serializedValue: "true"
+    - fieldIdentifier:
+        name: chatHistory
+        key: x0t40
+      setValue:
+        variable:
+          source: FUNCTION_CALL
+          functionCall:
+            values:
+              - variable:
+                  source: LOCAL_STATE
+                  baseVariable:
+                    localState:
+                      fieldIdentifier:
+                        name: chatHistory
+                        key: x0t40
+                      stateVariableType: WIDGET_CLASS_STATE
+                  nodeKeyRef:
+                    key: Container_vjx2o0xv
+              - variable:
+                  source: FUNCTION_CALL
+                  functionCall:
+                    values:
+                      - variable:
+                          source: WIDGET_STATE
+                          baseVariable:
+                            widgetState:
+                              returnParameter:
+                                allowedDestinationTypes:
+                                  - Integer
+                                  - Double
+                                  - Boolean
+                                  - ImagePath
+                                  - VideoPath
+                                  - AudioPath
+                                dataType:
+                                  scalarType: String
+                          nodeKeyRef:
+                            key: TextField_0d5fozs0
+                    customFunction:
+                      name: convertToJSON
+                      key: hqpfp
+            customFunction:
+              name: saveChatHistory
+              key: aocga
+  updateType: WIDGET
+  stateVariableType: WIDGET_CLASS_STATE
+actionName: addToChat_aiTyping
+key: e7jb8auu

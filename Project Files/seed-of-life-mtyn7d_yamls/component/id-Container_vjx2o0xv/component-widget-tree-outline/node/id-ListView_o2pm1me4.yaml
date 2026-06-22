@@ -1,0 +1,67 @@
+key: ListView_o2pm1me4
+type: ListView
+props:
+  listView:
+    axis: FF_AXIS_VERTICAL
+    primary: true
+    listSpacing:
+      startSpacingValue:
+        inputValue: 16
+        mostRecentInputValue: 16
+      endSpacingValue:
+        inputValue: 16
+        mostRecentInputValue: 16
+    shrinkWrapValue:
+      inputValue: false
+      mostRecentInputValue: false
+    reverseValue:
+      inputValue: false
+      mostRecentInputValue: false
+  padding:
+    type: FF_PADDING_ALL
+    allValue:
+      inputValue: 0
+      mostRecentInputValue: 0
+  alignment:
+    xValue:
+      inputValue: 0
+      mostRecentInputValue: 0
+    yValue:
+      inputValue: -1
+      mostRecentInputValue: -1
+  expanded:
+    expandedType: EXPANDED
+  emptyListWidget:
+    show: true
+    displayInFlutterFlow: false
+    componentDimensions:
+      width:
+        pixelsValue:
+          inputValue: Infinity
+          mostRecentInputValue: Infinity
+    componentParameters:
+      parameterPasses: {}
+      widgetClassNodeKeyRef:
+        key: Container_kdfe3wzi
+    componentClassNodeKeyRef:
+      key: Container_kdfe3wzi
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+generatorVariable:
+  identifier:
+    name: chat
+  variable:
+    source: LOCAL_STATE
+    baseVariable:
+      localState:
+        fieldIdentifier:
+          name: chatHistory
+          key: x0t40
+        stateVariableType: WIDGET_CLASS_STATE
+    nodeKeyRef:
+      key: Container_vjx2o0xv
+valueKey: {}

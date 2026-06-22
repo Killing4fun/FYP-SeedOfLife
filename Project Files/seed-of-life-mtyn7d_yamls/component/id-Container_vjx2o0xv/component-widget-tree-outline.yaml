@@ -1,0 +1,52 @@
+node:
+  key: Container_vjx2o0xv
+  children:
+    - key: Container_anoldg2m
+      children:
+        - key: Column_q7i6mtig
+          children:
+            - key: Column_ftcfzhbc
+              children:
+                - key: Container_5yw16a6z
+                - key: Blur_twydkuoq
+                  children:
+                    - key: Container_w3gj9lbz
+                      children:
+                        - key: Column_5pq7ak36
+                          children:
+                            - key: ListView_o2pm1me4
+                              children:
+                                - key: Column_ave7gfar
+                                  children:
+                                    - key: Row_kvouxczm
+                                      children:
+                                        - key: Column_wxf70dq4
+                                          children:
+                                            - key: Container_5n90xk8c
+                                              children:
+                                                - key: Column_fn3ki4nu
+                                                  children:
+                                                    - key: Text_9llcd5gh
+                                            - key: Container_v2j8khqq
+                                              children:
+                                                - key: Row_ncor12t5
+                                                  children:
+                                                    - key: Icon_dbfkoq7t
+                                                    - key: Text_xam936k0
+                                    - key: Row_vg1h09of
+                                      children:
+                                        - key: Container_6mw8rr4z
+                                          children:
+                                            - key: Column_krrrljz1
+                                              children:
+                                                - key: Text_hd4gvng5
+                            - key: Row_8cemh6xp
+                              children:
+                                - key: Container_o2gdosml
+            - key: Container_a5o6eaq9
+              children:
+                - key: Stack_2llgvlcb
+                  children:
+                    - key: TextField_0d5fozs0
+                    - key: IconButton_xerqc3c6
+            - key: Container_p90le2a2

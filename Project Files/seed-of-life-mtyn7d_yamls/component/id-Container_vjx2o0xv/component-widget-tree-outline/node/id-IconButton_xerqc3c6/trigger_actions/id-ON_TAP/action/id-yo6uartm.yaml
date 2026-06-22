@@ -1,0 +1,11 @@
+localStateUpdate:
+  updates:
+    - fieldIdentifier:
+        name: aiResponding
+        key: z1ss2
+      setValue:
+        inputValue:
+          serializedValue: "false"
+  updateType: WIDGET
+  stateVariableType: WIDGET_CLASS_STATE
+key: yo6uartm

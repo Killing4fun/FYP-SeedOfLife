@@ -1,0 +1,91 @@
+key: Container_6mw8rr4z
+type: Container
+props:
+  container:
+    dimensions: {}
+    boxDecoration:
+      borderRadius:
+        type: FF_BORDER_RADIUS_ONLY
+        topLeftValue:
+          inputValue: 12
+          mostRecentInputValue: 12
+        topRightValue:
+          inputValue: 12
+          mostRecentInputValue: 12
+        bottomLeftValue:
+          inputValue: 12
+          mostRecentInputValue: 12
+        bottomRightValue:
+          inputValue: 0
+          mostRecentInputValue: 0
+      boxShadow: {}
+      image:
+        type: FF_IMAGE_TYPE_NETWORK
+      colorValue:
+        inputValue:
+          themeColor: PRIMARY_BACKGROUND
+        mostRecentInputValue:
+          themeColor: PRIMARY_BACKGROUND
+      borderColorValue:
+        inputValue:
+          themeColor: PRIMARY
+    maxDimensions:
+      width:
+        pixelsValue:
+          variable:
+            source: FUNCTION_CALL
+            functionCall:
+              conditionalValue:
+                ifConditionalValues:
+                  - condition:
+                      source: FUNCTION_CALL
+                      functionCall:
+                        values:
+                          - variable:
+                              source: GLOBAL_PROPERTIES
+                              baseVariable:
+                                globalProperties:
+                                  property: FRACTION_SCREEN_WIDTH
+                          - inputValue:
+                              serializedValue: "1170"
+                        condition:
+                          relation: GREATER_THAN_OR_EQUAL_TO
+                    value:
+                      inputValue:
+                        serializedValue: "700"
+                  - condition:
+                      source: FUNCTION_CALL
+                      functionCall:
+                        values:
+                          - variable:
+                              source: GLOBAL_PROPERTIES
+                              baseVariable:
+                                globalProperties:
+                                  property: FRACTION_SCREEN_WIDTH
+                          - inputValue:
+                              serializedValue: "470"
+                        condition:
+                          relation: LESS_THAN_OR_EQUAL_TO
+                    value:
+                      inputValue:
+                        serializedValue: "330"
+                elseValue:
+                  inputValue:
+                    serializedValue: "530"
+                returnParameter:
+                  dataType:
+                    scalarType: Double
+            uiBuilderValue:
+              serializedValue: "500.0"
+          mostRecentInputValue: 500
+    minDimensions: {}
+    animationDurationValue:
+      inputValue: 100
+      mostRecentInputValue: 100
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+valueKey: {}

@@ -1,0 +1,26 @@
+database:
+  apiCall:
+    endpointIdentifier:
+      name: Send Full Prompt
+      key: wmsoj
+    variables:
+      - variableIdentifier:
+          name: apiKey
+          key: apiKey
+        inputValue:
+          serializedValue: " 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"
+      - variableIdentifier:
+          name: prompt
+          key: prompt
+        variable:
+          source: LOCAL_STATE
+          baseVariable:
+            localState:
+              fieldIdentifier:
+                name: chatHistory
+                key: x0t40
+              stateVariableType: WIDGET_CLASS_STATE
+          nodeKeyRef:
+            key: Container_vjx2o0xv
+outputVariableName: chatGPTResponse
+key: wpsicw7l

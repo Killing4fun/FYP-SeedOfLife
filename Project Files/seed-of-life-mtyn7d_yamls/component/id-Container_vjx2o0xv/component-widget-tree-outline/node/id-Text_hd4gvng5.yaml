@@ -1,0 +1,24 @@
+key: Text_hd4gvng5
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    selectable: false
+    textValue:
+      variable:
+        source: GENERATOR_VARIABLE
+        baseVariable:
+          generatorVariable: {}
+        operations:
+          - jsonPathOperation:
+              jsonPath: "$['content']"
+        nodeKeyRef:
+          key: ListView_o2pm1me4
+      mostRecentInputValue: Hello World
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+valueKey: {}

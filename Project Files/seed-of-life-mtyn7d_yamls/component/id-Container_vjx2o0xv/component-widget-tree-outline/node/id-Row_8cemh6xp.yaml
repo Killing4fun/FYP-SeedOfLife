@@ -1,0 +1,33 @@
+key: Row_8cemh6xp
+type: Row
+props:
+  row:
+    listSpacing: {}
+  visibility:
+    visibleValue:
+      variable:
+        source: FUNCTION_CALL
+        functionCall:
+          values:
+            - variable:
+                source: LOCAL_STATE
+                baseVariable:
+                  localState:
+                    fieldIdentifier:
+                      name: aiResponding
+                      key: z1ss2
+                    stateVariableType: WIDGET_CLASS_STATE
+                nodeKeyRef:
+                  key: Container_vjx2o0xv
+            - inputValue:
+                serializedValue: "true"
+          condition:
+            relation: EQUAL_TO
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+name: ai-typing-indicator
+parameterValues: {}
+valueKey: {}

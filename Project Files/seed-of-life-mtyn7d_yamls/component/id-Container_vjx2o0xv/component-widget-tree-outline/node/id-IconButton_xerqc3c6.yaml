@@ -1,0 +1,52 @@
+key: IconButton_xerqc3c6
+type: IconButton
+props:
+  iconButton:
+    buttonSize:
+      pixelsValue:
+        inputValue: 60
+        mostRecentInputValue: 60
+    borderRadiusValue:
+      inputValue: 30
+      mostRecentInputValue: 30
+    borderColorValue:
+      inputValue:
+        value: "0"
+      mostRecentInputValue:
+        value: "0"
+    borderWidthValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+    showLoadingIndicatorValue:
+      inputValue: true
+      mostRecentInputValue: true
+    iconValue:
+      inputValue:
+        sizeValue:
+          inputValue: 30
+          mostRecentInputValue: 30
+        colorValue:
+          inputValue:
+            themeColor: PRIMARY
+          mostRecentInputValue:
+            themeColor: PRIMARY
+        iconDataValue:
+          inputValue:
+            codePoint: 983367
+            family: MaterialIcons
+            matchTextDirection: true
+            name: send_rounded
+  alignment:
+    xValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+    yValue:
+      inputValue: 0
+      mostRecentInputValue: 0
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+valueKey: {}

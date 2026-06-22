@@ -1,0 +1,47 @@
+localStateUpdate:
+  updates:
+    - fieldIdentifier:
+        name: aiResponding
+        key: z1ss2
+      setValue:
+        inputValue:
+          serializedValue: "false"
+    - fieldIdentifier:
+        name: chatHistory
+        key: x0t40
+      setValue:
+        variable:
+          source: FUNCTION_CALL
+          functionCall:
+            values:
+              - variable:
+                  source: LOCAL_STATE
+                  baseVariable:
+                    localState:
+                      fieldIdentifier:
+                        name: chatHistory
+                        key: x0t40
+                      stateVariableType: WIDGET_CLASS_STATE
+                  nodeKeyRef:
+                    key: Container_vjx2o0xv
+              - variable:
+                  source: ACTION_OUTPUTS
+                  baseVariable:
+                    actionOutput:
+                      outputVariableIdentifier:
+                        name: chatGPTResponse
+                      actionKeyRef:
+                        key: wpsicw7l
+                  operations:
+                    - apiResponseField:
+                        responseField: JSON_BODY
+                    - jsonPathOperation:
+                        jsonPath: "$['choices'][0]['message']"
+                  nodeKeyRef:
+                    key: IconButton_xerqc3c6
+            customFunction:
+              name: saveChatHistory
+              key: aocga
+  updateType: WIDGET
+  stateVariableType: WIDGET_CLASS_STATE
+key: j7vvjvab

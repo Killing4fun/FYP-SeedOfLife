@@ -1,0 +1,12 @@
+key: Container_vjx2o0xv
+type: Container
+props:
+  container:
+    boxDecoration:
+      colorValue:
+        inputValue:
+          value: "0"
+        mostRecentInputValue:
+          value: "0"
+name: aiChat_Component
+isDummyRoot: true

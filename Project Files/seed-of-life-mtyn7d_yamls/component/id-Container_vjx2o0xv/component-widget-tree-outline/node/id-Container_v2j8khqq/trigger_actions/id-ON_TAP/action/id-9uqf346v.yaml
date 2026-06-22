@@ -1,0 +1,14 @@
+key: 9uqf346v
+copyToClipboard:
+  textToCopy:
+    variable:
+      source: GENERATOR_VARIABLE
+      defaultValue:
+        serializedValue: --
+      baseVariable:
+        generatorVariable: {}
+      operations:
+        - jsonPathOperation:
+            jsonPath: "$['content']"
+      nodeKeyRef:
+        key: ListView_o2pm1me4

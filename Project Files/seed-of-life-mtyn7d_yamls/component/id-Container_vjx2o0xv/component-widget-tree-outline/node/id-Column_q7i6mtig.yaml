@@ -1,0 +1,18 @@
+key: Column_q7i6mtig
+type: Column
+props:
+  column:
+    scrollable: false
+    primary: true
+    listSpacing: {}
+    minSizeValue:
+      inputValue: true
+      mostRecentInputValue: true
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+name: wrapperColumn
+parameterValues: {}
+valueKey: {}

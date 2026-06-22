@@ -1,0 +1,28 @@
+snackBar:
+  textMessage:
+    inputValue:
+      serializedValue: Response copied to clipboard.
+  textStyle:
+    themeStyle: BODY_MEDIUM
+    variableColor:
+      inputValue:
+        color:
+          themeColor: INFO
+    fontSizeValue:
+      inputValue: 12
+      mostRecentInputValue: 12
+  durationMillis: 2000
+  subAction:
+    action:
+      navigate:
+        allowBack: true
+      key: y93e1xx9
+    labelColor:
+      inputValue:
+        color: {}
+  shouldHidePreviousSnackbar: false
+  backgroundColor:
+    inputValue:
+      color:
+        themeColor: PRIMARY
+key: t5ay3mbg

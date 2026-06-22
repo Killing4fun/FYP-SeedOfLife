@@ -1,0 +1,21 @@
+snackBar:
+  textMessage:
+    inputValue:
+      serializedValue: Your API Call Failed!
+  textStyle:
+    themeStyle: TITLE_SMALL
+    variableColor:
+      inputValue:
+        color:
+          themeColor: INFO
+  durationMillis: 4000
+  subAction:
+    action:
+      navigate:
+        allowBack: true
+  shouldHidePreviousSnackbar: false
+  backgroundColor:
+    inputValue:
+      color:
+        themeColor: ERROR
+key: ihevsslg

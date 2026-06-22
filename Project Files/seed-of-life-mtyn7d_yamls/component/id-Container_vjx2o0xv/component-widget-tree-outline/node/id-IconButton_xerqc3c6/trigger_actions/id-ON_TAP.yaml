@@ -1,0 +1,55 @@
+rootAction:
+  key: jjsgc2q4
+  action:
+    key: e7jb8auu
+  followUpAction:
+    key: p4ngy2tx
+    action:
+      key: wpsicw7l
+    followUpAction:
+      key: dt9pym81
+      conditionActions:
+        falseAction:
+          key: lmzpv0us
+          action:
+            key: ihevsslg
+          followUpAction:
+            key: q1gqzh1o
+            action:
+              key: yo6uartm
+        trueActions:
+          - condition:
+              variable:
+                source: ACTION_OUTPUTS
+                baseVariable:
+                  actionOutput:
+                    outputVariableIdentifier:
+                      name: chatGPTResponse
+                    actionKeyRef:
+                      key: epyu2ooj
+                operations:
+                  - apiResponseField:
+                      responseField: SUCCEEDED
+                nodeKeyRef:
+                  key: IconButton_xerqc3c6
+            trueAction:
+              key: rsub9yq8
+              action:
+                key: j7vvjvab
+              followUpAction:
+                key: 2kamtsju
+                action:
+                  key: njamj1fk
+        key: 9cx1b6u3
+      followUpAction:
+        key: 2etdpqrw
+        action:
+          key: z9hgpu1n
+        followUpAction:
+          key: b1wzv9gp
+          action:
+            key: fsob34hh
+    annotations:
+      documentation: "The \"chatHistory\" is the generated JSON -- we send the whole chat history to AI in order for it to understand context. "
+trigger:
+  triggerType: ON_TAP

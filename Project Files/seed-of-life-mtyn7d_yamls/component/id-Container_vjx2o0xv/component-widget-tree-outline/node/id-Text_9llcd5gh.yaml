@@ -1,0 +1,31 @@
+key: Text_9llcd5gh
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    autoSize: true
+    selectable: true
+    textValue:
+      variable:
+        source: GENERATOR_VARIABLE
+        baseVariable:
+          generatorVariable: {}
+        operations:
+          - jsonPathOperation:
+              jsonPath: "$['content']"
+        nodeKeyRef:
+          key: ListView_o2pm1me4
+      mostRecentInputValue: Hello World
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_BACKGROUND
+    heightValue:
+      inputValue: 1.5
+      mostRecentInputValue: 1.5
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+valueKey: {}
