@@ -1,0 +1,49 @@
+identifier:
+  name: Send Full Prompt
+  key: wmsoj
+url: /chat/completions
+callType: POST
+variables:
+  - identifier:
+      name: apiKey
+      key: apiKey
+    type: String
+    testValue: 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
+  - identifier:
+      name: prompt
+      key: prompt
+    type: JSON
+    testValue: Hello!
+    isList: false
+bodyType: JSON
+body: "{\n  \"model\": \"gpt-4\",\n  \"messages\": <prompt>\n}"
+jsonPathDefinitions:
+  - identifier:
+      name: createdTimestamp
+      key: createdTimestamp
+    jsonPath:
+      jsonPath: $.created
+      returnParameter:
+        dataType:
+          scalarType: Integer
+  - identifier:
+      name: role
+      key: role
+    jsonPath:
+      jsonPath: "$.choices[:].message.role"
+      returnParameter:
+        dataType:
+          scalarType: String
+  - identifier:
+      name: content
+      key: content
+    jsonPath:
+      jsonPath: "$.choices[:].message.content"
+      returnParameter:
+        dataType:
+          scalarType: String
+headers:
+  - "Authorization: Bearer [apiKey]"
+groupIdentifier:
+  key: h6f1n
+endpointSettings: {}

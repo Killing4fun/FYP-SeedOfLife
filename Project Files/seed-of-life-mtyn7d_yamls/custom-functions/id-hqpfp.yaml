@@ -1,0 +1,16 @@
+identifier:
+  name: convertToJSON
+  key: hqpfp
+arguments:
+  - identifier:
+      name: prompt
+      key: m8sun3
+    dataType:
+      scalarType: String
+      nonNullable: true
+returnParameter:
+  dataType:
+    scalarType: JSON
+    nonNullable: true
+tests:
+  - parameterValues: {}

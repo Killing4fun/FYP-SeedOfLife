@@ -1,0 +1,34 @@
+identifier:
+  name: store_loc
+  key: d742d7sr
+fields:
+  store_name:
+    identifier:
+      name: store_name
+    dataType:
+      scalarType: String
+  store_description:
+    identifier:
+      name: store_description
+    dataType:
+      scalarType: String
+  store_image_path:
+    identifier:
+      name: store_image_path
+    dataType:
+      scalarType: ImagePath
+  store_address:
+    identifier:
+      name: store_address
+    dataType:
+      scalarType: String
+  store_catergory_type:
+    identifier:
+      name: store_catergory_type
+    dataType:
+      scalarType: DocumentReference
+      subType:
+        collectionIdentifier:
+          name: store_category
+          key: tdh4g9ys
+description: ""

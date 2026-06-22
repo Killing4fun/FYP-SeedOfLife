@@ -1,0 +1,25 @@
+identifier:
+  name: saveChatHistory
+  key: aocga
+arguments:
+  - identifier:
+      name: chatHistory
+      key: fq33bd
+    dataType:
+      scalarType: JSON
+      nonNullable: false
+  - identifier:
+      name: newChat
+      key: h5fqy6
+    dataType:
+      scalarType: JSON
+      nonNullable: true
+returnParameter:
+  dataType:
+    scalarType: JSON
+    nonNullable: true
+tests:
+  - parameterValues:
+      values:
+        chatHistory: "{\"role\":\"user\",\"content\":\"Hello World\"}"
+        newChat: "{\"role\":\"user\",\"content\":\"Hello World 2\"}"

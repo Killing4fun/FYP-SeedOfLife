@@ -1,0 +1,50 @@
+identifier:
+  name: user
+  key: pt50n9ue
+fields:
+  email:
+    identifier:
+      name: email
+    dataType:
+      scalarType: String
+  display_name:
+    identifier:
+      name: display_name
+    dataType:
+      scalarType: String
+  photo_url:
+    identifier:
+      name: photo_url
+    dataType:
+      scalarType: ImagePath
+  uid:
+    identifier:
+      name: uid
+    dataType:
+      scalarType: String
+  created_time:
+    identifier:
+      name: created_time
+    dataType:
+      scalarType: DateTime
+  phone_number:
+    identifier:
+      name: phone_number
+    dataType:
+      scalarType: String
+  password:
+    identifier:
+      name: password
+    dataType:
+      scalarType: String
+  user_state:
+    identifier:
+      name: user_state
+    dataType:
+      scalarType: String
+  user_area:
+    identifier:
+      name: user_area
+    dataType:
+      scalarType: String
+description: ""

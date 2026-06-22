@@ -1,0 +1,49 @@
+identifier:
+  name: forum_post
+  key: l3d5h0a0
+fields:
+  post_image_path:
+    identifier:
+      name: post_image_path
+    dataType:
+      scalarType: ImagePath
+  post_description:
+    identifier:
+      name: post_description
+    dataType:
+      scalarType: String
+  created_at:
+    identifier:
+      name: created_at
+    dataType:
+      scalarType: DateTime
+  created_id:
+    identifier:
+      name: created_id
+    dataType:
+      scalarType: DocumentReference
+      subType:
+        collectionIdentifier:
+          name: user
+          key: pt50n9ue
+  post_comment_id:
+    identifier:
+      name: post_comment_id
+    dataType:
+      listType:
+        scalarType: DocumentReference
+      subType:
+        collectionIdentifier:
+          name: forum_comment
+          key: 4075lodf
+  post_like_id:
+    identifier:
+      name: post_like_id
+    dataType:
+      listType:
+        scalarType: DocumentReference
+      subType:
+        collectionIdentifier:
+          name: forum_like
+          key: inw8sq7t
+description: ""

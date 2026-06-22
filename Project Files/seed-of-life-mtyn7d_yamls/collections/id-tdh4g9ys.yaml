@@ -1,0 +1,10 @@
+identifier:
+  name: store_category
+  key: tdh4g9ys
+fields:
+  category_name:
+    identifier:
+      name: category_name
+    dataType:
+      scalarType: String
+description: ""

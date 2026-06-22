@@ -1,0 +1,59 @@
+identifier:
+  name: user_plants
+  key: n6zng3ip
+fields:
+  plant_name:
+    identifier:
+      name: plant_name
+    dataType:
+      scalarType: String
+  plant_details:
+    identifier:
+      name: plant_details
+    dataType:
+      scalarType: String
+  plant_image_path:
+    identifier:
+      name: plant_image_path
+    dataType:
+      scalarType: ImagePath
+  plant_watering_guide:
+    identifier:
+      name: plant_watering_guide
+    dataType:
+      scalarType: String
+  plant_soil_guide:
+    identifier:
+      name: plant_soil_guide
+    dataType:
+      scalarType: String
+  plant_placed:
+    identifier:
+      name: plant_placed
+    dataType:
+      scalarType: String
+  user_id:
+    identifier:
+      name: user_id
+    dataType:
+      scalarType: DocumentReference
+      subType:
+        collectionIdentifier:
+          name: user
+          key: pt50n9ue
+  display_name:
+    identifier:
+      name: display_name
+    dataType:
+      scalarType: String
+  photo_url:
+    identifier:
+      name: photo_url
+    dataType:
+      scalarType: ImagePath
+  created_time:
+    identifier:
+      name: created_time
+    dataType:
+      scalarType: DateTime
+description: ""

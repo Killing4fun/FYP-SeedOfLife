@@ -1,0 +1,33 @@
+identifier:
+  name: forum_comment
+  key: 4075lodf
+fields:
+  comment_content:
+    identifier:
+      name: comment_content
+    dataType:
+      scalarType: String
+  created_at:
+    identifier:
+      name: created_at
+    dataType:
+      scalarType: DateTime
+  post_id:
+    identifier:
+      name: post_id
+    dataType:
+      scalarType: DocumentReference
+      subType:
+        collectionIdentifier:
+          name: forum_post
+          key: l3d5h0a0
+  user_id:
+    identifier:
+      name: user_id
+    dataType:
+      scalarType: DocumentReference
+      subType:
+        collectionIdentifier:
+          name: user
+          key: pt50n9ue
+description: ""
