@@ -1,0 +1,19 @@
+key: Text_gkf61yo1
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    selectable: false
+    textValue:
+      inputValue: Details
+  alignment:
+    xValue:
+      inputValue: -0.786
+    yValue:
+      inputValue: -0.528
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+    animatedOpacity: {}
+valueKey: {}

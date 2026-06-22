@@ -1,0 +1,19 @@
+key: Text_6ei9o33d
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    selectable: false
+    textValue:
+      inputValue: Name
+  alignment:
+    xValue:
+      inputValue: -0.608
+    yValue:
+      inputValue: -0.372
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+    animatedOpacity: {}
+valueKey: {}

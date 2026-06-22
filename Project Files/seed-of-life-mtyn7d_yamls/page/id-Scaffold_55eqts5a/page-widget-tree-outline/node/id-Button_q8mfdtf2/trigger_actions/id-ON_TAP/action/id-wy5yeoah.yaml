@@ -1,0 +1,14 @@
+bottomSheet:
+  passedParameters:
+    parameterPasses: {}
+    widgetClassNodeKeyRef:
+      key: Container_qemmsgl4
+  isDismiss: false
+  backgroundColor:
+    inputValue:
+      color:
+        value: "0"
+  barrierColor: {}
+  componentClassNodeKeyRef:
+    key: Container_qemmsgl4
+key: wy5yeoah

@@ -1,0 +1,26 @@
+key: Icon_z4z7rrzk
+type: Icon
+props:
+  icon:
+    sizeValue:
+      inputValue: 24
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY
+    iconDataValue:
+      inputValue:
+        codePoint: 58530
+        family: MaterialIcons
+        matchTextDirection: false
+        name: phone
+  alignment:
+    xValue:
+      inputValue: -0.849
+    yValue:
+      inputValue: 0.096
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+    animatedOpacity: {}
+valueKey: {}

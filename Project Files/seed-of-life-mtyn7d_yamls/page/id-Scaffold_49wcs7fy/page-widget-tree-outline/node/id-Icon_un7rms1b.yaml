@@ -1,0 +1,26 @@
+key: Icon_un7rms1b
+type: Icon
+props:
+  icon:
+    sizeValue:
+      inputValue: 24
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY
+    iconDataValue:
+      inputValue:
+        codePoint: 58945
+        family: MaterialIcons
+        matchTextDirection: false
+        name: tag_faces
+  alignment:
+    xValue:
+      inputValue: -0.843
+    yValue:
+      inputValue: -0.277
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+    animatedOpacity: {}
+valueKey: {}

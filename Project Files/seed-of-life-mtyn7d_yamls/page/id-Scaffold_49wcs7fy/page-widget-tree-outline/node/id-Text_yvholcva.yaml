@@ -1,0 +1,26 @@
+key: Text_yvholcva
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    selectable: false
+    textValue:
+      inputValue: Account
+    fontSizeValue:
+      inputValue: 30
+    colorValue:
+      inputValue:
+        themeColor: SECONDARY_BACKGROUND
+    fontWeightValue:
+      inputValue: w800
+  alignment:
+    xValue:
+      inputValue: -0.759
+    yValue:
+      inputValue: -0.935
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+    animatedOpacity: {}
+valueKey: {}

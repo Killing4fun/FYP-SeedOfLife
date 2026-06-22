@@ -1,0 +1,48 @@
+key: Button_7iin1ho2
+type: Button
+props:
+  button:
+    text:
+      themeStyle: TITLE_SMALL
+      textValue:
+        inputValue: Like Forum
+      colorValue:
+        inputValue:
+          themeColor: PRIMARY
+    borderRadius:
+      type: FF_BORDER_RADIUS_ALL
+      allValue:
+        inputValue: 8
+    innerPadding:
+      leftValue:
+        inputValue: 16
+      topValue:
+        inputValue: 0
+      rightValue:
+        inputValue: 16
+      bottomValue:
+        inputValue: 0
+    dimensions:
+      height:
+        pixelsValue:
+          inputValue: 40
+    elevationValue:
+      inputValue: 0
+    fillColorValue:
+      inputValue:
+        value: "4294967295"
+    iconValue:
+      inputValue:
+        sizeValue:
+          inputValue: 20
+        iconDataValue:
+          inputValue:
+            codePoint: 57948
+            family: MaterialIcons
+            matchTextDirection: false
+            name: favorite_border
+  alignment:
+    xValue:
+      inputValue: 0.745
+    yValue:
+      inputValue: 0.571

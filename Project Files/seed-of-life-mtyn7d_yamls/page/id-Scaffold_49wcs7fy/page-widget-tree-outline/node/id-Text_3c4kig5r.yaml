@@ -1,0 +1,19 @@
+key: Text_3c4kig5r
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    selectable: false
+    textValue:
+      inputValue: Email Address
+  alignment:
+    xValue:
+      inputValue: -0.572
+    yValue:
+      inputValue: 0.202
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+    animatedOpacity: {}
+valueKey: {}

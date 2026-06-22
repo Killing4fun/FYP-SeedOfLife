@@ -1,0 +1,20 @@
+key: Icon_befavhcv
+type: Icon
+props:
+  icon:
+    sizeValue:
+      inputValue: 24
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY
+    iconDataValue:
+      inputValue:
+        codePoint: 57898
+        family: MaterialIcons
+        matchTextDirection: false
+        name: email
+  alignment:
+    xValue:
+      inputValue: -0.849
+    yValue:
+      inputValue: 0.288

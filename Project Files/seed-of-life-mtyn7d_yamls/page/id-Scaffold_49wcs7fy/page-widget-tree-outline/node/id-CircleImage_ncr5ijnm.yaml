@@ -1,0 +1,22 @@
+key: CircleImage_ncr5ijnm
+type: CircleImage
+props:
+  image:
+    type: FF_IMAGE_TYPE_NETWORK
+    fit: FF_BOX_FIT_COVER
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: 100
+      height:
+        pixelsValue:
+          inputValue: 200
+    cacheFadeDuration: 500
+    showErrorImage: true
+    pathValue:
+      inputValue: https://picsum.photos/seed/813/600
+  alignment:
+    xValue:
+      inputValue: -0.69
+    yValue:
+      inputValue: -0.688

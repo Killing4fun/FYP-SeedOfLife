@@ -1,0 +1,57 @@
+key: Button_tx8mxjy6
+type: Button
+props:
+  button:
+    text:
+      themeStyle: TITLE_SMALL
+      textValue:
+        inputValue: Post Forum
+      colorValue:
+        inputValue:
+          value: "4294967295"
+    borderRadius:
+      type: FF_BORDER_RADIUS_ALL
+      allValue:
+        inputValue: 8
+    innerPadding:
+      leftValue:
+        inputValue: 16
+      topValue:
+        inputValue: 0
+      rightValue:
+        inputValue: 16
+      bottomValue:
+        inputValue: 0
+    dimensions:
+      height:
+        pixelsValue:
+          inputValue: 40
+    elevationValue:
+      inputValue: 0
+    fillColorValue:
+      inputValue:
+        themeColor: PRIMARY
+    iconValue:
+      inputValue:
+        sizeValue:
+          inputValue: 15
+        iconDataValue:
+          inputValue:
+            codePoint: 62211
+            family: FontAwesomeSolid
+            package: font_awesome_flutter
+            matchTextDirection: false
+            packageIcon:
+              fontAwesome: pencilAlt
+            name: pencilAlt
+  alignment:
+    xValue:
+      inputValue: -0.831
+    yValue:
+      inputValue: 0.568
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+    animatedOpacity: {}
+valueKey: {}

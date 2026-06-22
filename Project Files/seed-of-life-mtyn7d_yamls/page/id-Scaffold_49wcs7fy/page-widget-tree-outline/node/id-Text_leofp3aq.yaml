@@ -1,0 +1,13 @@
+key: Text_leofp3aq
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    selectable: false
+    textValue:
+      inputValue: Phone Number
+  alignment:
+    xValue:
+      inputValue: -0.559
+    yValue:
+      inputValue: 0.006

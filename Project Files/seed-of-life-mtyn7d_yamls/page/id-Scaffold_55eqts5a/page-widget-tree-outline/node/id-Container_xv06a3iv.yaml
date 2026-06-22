@@ -1,0 +1,17 @@
+key: Container_xv06a3iv
+type: Container
+props:
+  container:
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: 694.4
+      height:
+        pixelsValue:
+          inputValue: 952.3
+    boxDecoration:
+      colorValue:
+        inputValue:
+          themeColor: SECONDARY_BACKGROUND
+    animationDurationValue:
+      inputValue: 100

@@ -1,0 +1,27 @@
+key: IconButton_zu27snvd
+type: IconButton
+props:
+  iconButton:
+    buttonSize:
+      pixelsValue:
+        inputValue: 40
+    borderRadiusValue:
+      inputValue: 8
+    iconValue:
+      inputValue:
+        sizeValue:
+          inputValue: 24
+        colorValue:
+          inputValue:
+            themeColor: PRIMARY
+        iconDataValue:
+          inputValue:
+            codePoint: 57490
+            family: MaterialIcons
+            matchTextDirection: true
+            name: arrow_back
+  alignment:
+    xValue:
+      inputValue: -0.875
+    yValue:
+      inputValue: -0.882

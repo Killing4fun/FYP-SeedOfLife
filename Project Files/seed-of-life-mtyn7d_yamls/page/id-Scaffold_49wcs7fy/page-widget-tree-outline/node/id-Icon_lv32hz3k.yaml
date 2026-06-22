@@ -1,0 +1,26 @@
+key: Icon_lv32hz3k
+type: Icon
+props:
+  icon:
+    sizeValue:
+      inputValue: 24
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY
+    iconDataValue:
+      inputValue:
+        codePoint: 58284
+        family: MaterialIcons
+        matchTextDirection: false
+        name: location_pin
+  alignment:
+    xValue:
+      inputValue: -0.849
+    yValue:
+      inputValue: -0.087
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+    animatedOpacity: {}
+valueKey: {}
