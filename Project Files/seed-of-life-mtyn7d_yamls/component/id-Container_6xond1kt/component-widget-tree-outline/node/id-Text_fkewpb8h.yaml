@@ -1,0 +1,19 @@
+key: Text_fkewpb8h
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    selectable: false
+    textValue:
+      inputValue: "Your Post Has Been\nCreated"
+    fontSizeValue:
+      inputValue: 21
+    fontWeightValue:
+      inputValue: w700
+    textAlignValue:
+      inputValue: ALIGN_CENTER
+  alignment:
+    xValue:
+      inputValue: -0.099
+    yValue:
+      inputValue: -0.3

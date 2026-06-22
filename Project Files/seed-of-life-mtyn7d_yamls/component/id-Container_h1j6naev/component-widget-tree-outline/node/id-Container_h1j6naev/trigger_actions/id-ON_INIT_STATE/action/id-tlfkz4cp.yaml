@@ -1,0 +1,15 @@
+database:
+  firestoreQuery:
+    collectionIdentifier:
+      name: forum_post
+      key: l3d5h0a0
+    hideOnEmpty: false
+  returnParameter:
+    dataType:
+      listType:
+        scalarType: Document
+      subType:
+        collectionIdentifier:
+          name: forum_post
+          key: l3d5h0a0
+key: tlfkz4cp

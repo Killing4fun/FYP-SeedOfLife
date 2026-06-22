@@ -1,0 +1,22 @@
+key: Row_0g57cmhr
+type: Row
+props:
+  row: {}
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 8
+      mostRecentInputValue: 8
+    topValue:
+      inputValue: 0
+      mostRecentInputValue: 0
+    rightValue:
+      inputValue: 8
+      mostRecentInputValue: 8
+    bottomValue:
+      inputValue: 4
+      mostRecentInputValue: 4
+  platformType: MATERIAL
+  queryLoadingWidget:
+    loadingWidget:
+      defaultLoadingIndicator: {}

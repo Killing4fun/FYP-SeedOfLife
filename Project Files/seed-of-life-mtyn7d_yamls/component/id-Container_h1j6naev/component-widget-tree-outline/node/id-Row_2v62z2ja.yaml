@@ -1,0 +1,18 @@
+key: Row_2v62z2ja
+type: Row
+props:
+  row: {}
+  padding:
+    type: FF_PADDING_ONLY
+    rightValue:
+      inputValue: 12
+      mostRecentInputValue: 12
+  platformType: MATERIAL
+  responsiveVisibility: {}
+  queryLoadingWidget:
+    loadingWidget:
+      defaultLoadingIndicator: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+    animatedOpacity: {}

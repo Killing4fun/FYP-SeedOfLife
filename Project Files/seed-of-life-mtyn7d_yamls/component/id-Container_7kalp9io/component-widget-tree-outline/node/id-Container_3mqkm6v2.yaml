@@ -1,0 +1,130 @@
+key: Container_3mqkm6v2
+type: Container
+props:
+  container:
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: 77
+          mostRecentInputValue: 77
+      height:
+        pixelsValue:
+          inputValue: 32
+          mostRecentInputValue: 32
+    boxDecoration:
+      borderRadius:
+        type: FF_BORDER_RADIUS_ALL
+        topLeftValue:
+          inputValue: 12
+          mostRecentInputValue: 12
+        topRightValue:
+          inputValue: 12
+          mostRecentInputValue: 12
+        bottomLeftValue:
+          inputValue: 12
+          mostRecentInputValue: 12
+        bottomRightValue:
+          inputValue: 12
+          mostRecentInputValue: 12
+        allValue:
+          inputValue: 12
+          mostRecentInputValue: 12
+      boxShadow: {}
+      image: {}
+      colorValue:
+        inputValue:
+          themeColor: ALTERNATE
+      borderColorValue:
+        inputValue:
+          themeColor: PRIMARY
+        mostRecentInputValue:
+          themeColor: PRIMARY
+    maxDimensions: {}
+    minDimensions: {}
+    animationDurationValue:
+      inputValue: 100
+      mostRecentInputValue: 100
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 16
+      mostRecentInputValue: 16
+    topValue:
+      inputValue: 12
+      mostRecentInputValue: 12
+    bottomValue:
+      inputValue: 12
+      mostRecentInputValue: 12
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+animations:
+  - trigger: ON_PAGE_LOAD
+    hideBeforeAnimating: true
+    effects:
+      - curve: EASE_IN_OUT
+        slide:
+          beginDx:
+            inputValue:
+              serializedValue: "-20.0"
+          beginDy:
+            inputValue:
+              serializedValue: "0.0"
+          endDx:
+            inputValue:
+              serializedValue: "0.0"
+          endDy:
+            inputValue:
+              serializedValue: "0.0"
+        delay:
+          inputValue:
+            serializedValue: "0.0"
+        duration:
+          inputValue:
+            serializedValue: "200.0"
+      - curve: EASE_IN_OUT
+        scale:
+          beginDx:
+            inputValue:
+              serializedValue: "0.8"
+          endDx:
+            inputValue:
+              serializedValue: "1.0"
+          beginDy:
+            inputValue:
+              serializedValue: "0.8"
+          endDy:
+            inputValue:
+              serializedValue: "1.0"
+        delay:
+          inputValue:
+            serializedValue: "0.0"
+        duration:
+          inputValue:
+            serializedValue: "200.0"
+      - curve: EASE_IN_OUT
+        fade:
+          begin:
+            inputValue:
+              serializedValue: "0.0"
+          end:
+            inputValue:
+              serializedValue: "1.0"
+        delay:
+          inputValue:
+            serializedValue: "0.0"
+        duration:
+          inputValue:
+            serializedValue: "200.0"
+    useSameInterval: true
+    applyInitialState: true
+    delay:
+      inputValue:
+        serializedValue: "0.0"
+    duration:
+      inputValue:
+        serializedValue: "200.0"
+valueKey: {}

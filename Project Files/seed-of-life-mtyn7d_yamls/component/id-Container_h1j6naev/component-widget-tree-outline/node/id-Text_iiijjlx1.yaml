@@ -1,0 +1,50 @@
+key: Text_iiijjlx1
+type: Text
+props:
+  text:
+    themeStyle: LABEL_MEDIUM
+    textValue:
+      variable:
+        source: FIRESTORE_REQUEST
+        defaultValue:
+          serializedValue: "0"
+        baseVariable:
+          firestore: {}
+        operations:
+          - accessDocumentField:
+              fieldIdentifier:
+                name: post_like_id
+          - listNumItems: {}
+          - numberFormat: {}
+        nodeKeyRef:
+          key: Text_iiijjlx1
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 4
+      mostRecentInputValue: 4
+    rightValue:
+      inputValue: 8
+      mostRecentInputValue: 8
+  platformType: MATERIAL
+  responsiveVisibility: {}
+  queryLoadingWidget:
+    loadingWidget:
+      defaultLoadingIndicator: {}
+databaseRequest:
+  returnParameter:
+    dataType:
+      scalarType: Document
+      subType:
+        collectionIdentifier:
+          name: forum_post
+          key: l3d5h0a0
+  firestore:
+    collectionIdentifier:
+      name: forum_post
+      key: l3d5h0a0
+    hideOnEmpty: true
+parameterValues: {}

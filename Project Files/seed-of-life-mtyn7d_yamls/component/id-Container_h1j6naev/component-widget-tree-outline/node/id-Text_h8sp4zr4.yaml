@@ -1,0 +1,43 @@
+key: Text_h8sp4zr4
+type: Text
+props:
+  text:
+    themeStyle: BODY_LARGE
+    textValue:
+      variable:
+        source: FIRESTORE_REQUEST
+        defaultValue:
+          serializedValue: Amirul Ehsan
+        baseVariable:
+          firestore: {}
+        operations:
+          - accessDocumentField:
+              fieldIdentifier:
+                name: created_id
+          - documentReferencePath: {}
+        nodeKeyRef:
+          key: Text_h8sp4zr4
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 12
+      mostRecentInputValue: 12
+  platformType: MATERIAL
+  responsiveVisibility: {}
+  queryLoadingWidget:
+    loadingWidget:
+      defaultLoadingIndicator: {}
+databaseRequest:
+  returnParameter:
+    dataType:
+      scalarType: Document
+      subType:
+        collectionIdentifier:
+          name: forum_post
+          key: l3d5h0a0
+  firestore:
+    collectionIdentifier:
+      name: forum_post
+      key: l3d5h0a0
+    hideOnEmpty: true
+parameterValues: {}

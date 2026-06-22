@@ -1,0 +1,23 @@
+key: Row_4nbz1kpk
+type: Row
+props:
+  row: {}
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 8
+      mostRecentInputValue: 8
+    topValue:
+      inputValue: 12
+      mostRecentInputValue: 12
+    rightValue:
+      inputValue: 8
+      mostRecentInputValue: 8
+    bottomValue:
+      inputValue: 8
+      mostRecentInputValue: 8
+  platformType: MATERIAL
+  responsiveVisibility: {}
+  queryLoadingWidget:
+    loadingWidget:
+      defaultLoadingIndicator: {}

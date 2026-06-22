@@ -1,0 +1,35 @@
+key: Icon_6q1vih92
+type: Icon
+props:
+  icon:
+    sizeValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+    colorValue:
+      inputValue:
+        themeColor: SECONDARY_TEXT
+      mostRecentInputValue:
+        themeColor: SECONDARY_TEXT
+    iconDataValue:
+      inputValue:
+        codePoint: 61910
+        family: MaterialIcons
+        matchTextDirection: false
+        name: mode_comment_outlined
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 8
+      mostRecentInputValue: 8
+    topValue:
+      inputValue: 8
+      mostRecentInputValue: 8
+    bottomValue:
+      inputValue: 8
+      mostRecentInputValue: 8
+  platformType: MATERIAL
+  responsiveVisibility: {}
+  queryLoadingWidget:
+    loadingWidget:
+      defaultLoadingIndicator: {}
+parameterValues: {}

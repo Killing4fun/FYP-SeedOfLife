@@ -1,0 +1,27 @@
+key: Divider_y5swg0g5
+type: Divider
+props:
+  divider:
+    heightValue:
+      inputValue: 8
+      mostRecentInputValue: 8
+    thicknessValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_BACKGROUND
+      mostRecentInputValue:
+        themeColor: PRIMARY_BACKGROUND
+    indentValue:
+      inputValue: 4
+      mostRecentInputValue: 4
+    endIndentValue:
+      inputValue: 4
+      mostRecentInputValue: 4
+  platformType: MATERIAL
+  responsiveVisibility: {}
+  queryLoadingWidget:
+    loadingWidget:
+      defaultLoadingIndicator: {}
+parameterValues: {}

@@ -1,0 +1,115 @@
+key: Container_hfijjc5m
+type: Container
+props:
+  container:
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: 12
+          mostRecentInputValue: 12
+      height:
+        pixelsValue:
+          inputValue: 100
+          mostRecentInputValue: 100
+    boxDecoration:
+      boxShape: FF_BOX_SHAPE_CIRCLE
+      boxShadow: {}
+      image: {}
+      colorValue:
+        inputValue:
+          themeColor: PRIMARY
+        mostRecentInputValue:
+          themeColor: PRIMARY
+    maxDimensions: {}
+    minDimensions: {}
+    animationDurationValue:
+      inputValue: 100
+      mostRecentInputValue: 100
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+animations:
+  - trigger: ON_PAGE_LOAD
+    hideBeforeAnimating: true
+    effects:
+      - curve: EASE_IN_OUT
+        scale:
+          beginDx:
+            inputValue:
+              serializedValue: "0.8"
+          endDx:
+            inputValue:
+              serializedValue: "1.0"
+          beginDy:
+            inputValue:
+              serializedValue: "0.8"
+          endDy:
+            inputValue:
+              serializedValue: "1.0"
+        delay:
+          inputValue:
+            serializedValue: "0.0"
+        duration:
+          inputValue:
+            serializedValue: "300.0"
+      - curve: EASE_IN_OUT
+        scale:
+          beginDx:
+            inputValue:
+              serializedValue: "1.0"
+          endDx:
+            inputValue:
+              serializedValue: "0.8"
+          beginDy:
+            inputValue:
+              serializedValue: "1.0"
+          endDy:
+            inputValue:
+              serializedValue: "0.8"
+        delay:
+          inputValue:
+            serializedValue: "400.0"
+        duration:
+          inputValue:
+            serializedValue: "300.0"
+      - curve: EASE_IN_OUT
+        fade:
+          begin:
+            inputValue:
+              serializedValue: "1.0"
+          end:
+            inputValue:
+              serializedValue: "0.7"
+        delay:
+          inputValue:
+            serializedValue: "1200.0"
+        duration:
+          inputValue:
+            serializedValue: "300.0"
+      - curve: EASE_IN_OUT
+        fade:
+          begin:
+            inputValue:
+              serializedValue: "0.7"
+          end:
+            inputValue:
+              serializedValue: "1.0"
+        delay:
+          inputValue:
+            serializedValue: "0.0"
+        duration:
+          inputValue:
+            serializedValue: "300.0"
+    useSameInterval: false
+    applyInitialState: true
+    loop: true
+    delay:
+      inputValue:
+        serializedValue: "0.0"
+    duration:
+      inputValue:
+        serializedValue: "300.0"
+valueKey: {}
