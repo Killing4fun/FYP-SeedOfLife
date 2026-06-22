@@ -1,0 +1,21 @@
+key: Text_o4yfpab1
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    selectable: false
+    textValue:
+      inputValue: Phone Number
+    fontWeightValue:
+      inputValue: w700
+  alignment:
+    xValue:
+      inputValue: -0.747
+    yValue:
+      inputValue: 0.122
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+    animatedOpacity: {}
+valueKey: {}

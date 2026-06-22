@@ -1,0 +1,15 @@
+key: Text_tc3vwun4
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    selectable: false
+    textValue:
+      inputValue: Name
+    fontWeightValue:
+      inputValue: w700
+  alignment:
+    xValue:
+      inputValue: -0.769
+    yValue:
+      inputValue: -0.296

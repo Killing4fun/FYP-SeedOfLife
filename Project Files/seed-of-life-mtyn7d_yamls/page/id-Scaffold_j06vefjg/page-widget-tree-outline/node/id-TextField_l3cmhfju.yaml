@@ -1,0 +1,70 @@
+key: TextField_l3cmhfju
+type: TextField
+props:
+  alignment:
+    xValue:
+      inputValue: -0.161
+    yValue:
+      inputValue: 0.21
+  textField:
+    textStyle:
+      themeStyle: BODY_MEDIUM
+      fontWeightValue:
+        inputValue: w400
+    inputDecoration:
+      inputBorderType: outline
+      borderRadius:
+        type: FF_BORDER_RADIUS_ALL
+        allValue:
+          inputValue: 8
+      hintStyle:
+        themeStyle: LABEL_MEDIUM
+      labelStyle:
+        themeStyle: LABEL_MEDIUM
+      hintText:
+        textValue:
+          inputValue: Enter Phone Number
+      borderColorValue:
+        inputValue:
+          themeColor: PRIMARY
+      filledValue:
+        inputValue: true
+      fillColorValue:
+        inputValue:
+          themeColor: SECONDARY_BACKGROUND
+      borderWidthValue:
+        inputValue: 1
+      denseValue:
+        inputValue: true
+      errorBorderColorValue:
+        inputValue:
+          themeColor: ERROR
+    initialText:
+      textValue:
+        variable:
+          source: FIREBASE_AUTH_USER
+          baseVariable:
+            auth:
+              property: PHONE_NUMBER
+    width:
+      pixelsValue:
+        inputValue: 310
+    maxLinesValue:
+      inputValue: 1
+    autofocusValue:
+      inputValue: false
+    cursorColorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+    enableInteractiveSelection:
+      inputValue: true
+    enabledValue:
+      inputValue: true
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+    animatedOpacity: {}
+name: phonefield
+parameterValues: {}
+valueKey: {}

@@ -1,0 +1,22 @@
+node:
+  key: Scaffold_j06vefjg
+  body:
+    key: Stack_78gpsy38
+    children:
+      - key: Container_yoyk5ys9
+        children:
+          - key: Stack_rgbx8cou
+            children:
+              - key: IconButton_ezz08o2u
+              - key: Text_i8rrv965
+              - key: Button_91elh951
+              - key: Text_tc3vwun4
+              - key: Text_reaeowlu
+              - key: TextField_7aoq3k7t
+              - key: TextField_xdf7e8t6
+              - key: Button_3zdow4fa
+              - key: CircleImage_1tloz4mk
+              - key: TextField_il7lx3c8
+              - key: Text_05xtnkrq
+              - key: TextField_l3cmhfju
+              - key: Text_o4yfpab1

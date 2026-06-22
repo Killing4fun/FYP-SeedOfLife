@@ -1,0 +1,17 @@
+key: Text_lgm25ohp
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    selectable: false
+    textValue:
+      inputValue: "We believe that every plant deserves o thrive, and\nevery space can be transformed by a touch of nature. whether you\/re a seasonal gardener or just\nstarted your green journey, this app is designed to\nbe your trusted companion."
+    fontSizeValue:
+      inputValue: 11
+    textAlignValue:
+      inputValue: ALIGN_CENTER
+  alignment:
+    xValue:
+      inputValue: 0
+    yValue:
+      inputValue: 0.396

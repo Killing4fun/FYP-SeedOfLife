@@ -1,0 +1,29 @@
+key: IconButton_ibuxaep4
+type: IconButton
+props:
+  iconButton:
+    buttonSize:
+      pixelsValue:
+        inputValue: 59.9
+    borderRadiusValue:
+      inputValue: 30
+    iconValue:
+      inputValue:
+        sizeValue:
+          inputValue: 35
+        colorValue:
+          inputValue:
+            themeColor: PRIMARY
+        iconDataValue:
+          inputValue:
+            codePoint: 58284
+            family: MaterialIcons
+            matchTextDirection: false
+            name: location_pin
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+    animatedOpacity: {}
+name: toshopbtn
+valueKey: {}

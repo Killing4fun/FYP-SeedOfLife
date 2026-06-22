@@ -1,0 +1,15 @@
+key: Text_reaeowlu
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    selectable: false
+    textValue:
+      inputValue: Email Address
+    fontWeightValue:
+      inputValue: w700
+  alignment:
+    xValue:
+      inputValue: -0.753
+    yValue:
+      inputValue: 0.343

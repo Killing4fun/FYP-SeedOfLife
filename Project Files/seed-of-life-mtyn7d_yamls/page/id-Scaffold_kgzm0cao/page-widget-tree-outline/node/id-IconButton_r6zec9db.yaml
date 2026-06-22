@@ -1,0 +1,32 @@
+key: IconButton_r6zec9db
+type: IconButton
+props:
+  iconButton:
+    buttonSize:
+      pixelsValue:
+        inputValue: 58.9
+    fillColorValue:
+      inputValue:
+        themeColor: PRIMARY
+    borderRadiusValue:
+      inputValue: 38
+    iconValue:
+      inputValue:
+        sizeValue:
+          inputValue: 37
+        colorValue:
+          inputValue:
+            themeColor: SECONDARY_BACKGROUND
+        iconDataValue:
+          inputValue:
+            codePoint: 57726
+            family: MaterialIcons
+            matchTextDirection: false
+            name: comment
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+    animatedOpacity: {}
+name: toforumbtn
+valueKey: {}

@@ -1,0 +1,16 @@
+node:
+  key: Scaffold_hlkx6xek
+  body:
+    key: Stack_yppm8gds
+    children:
+      - key: Image_po8mcsit
+      - key: Stack_9adqviu5
+      - key: Container_zs3dt9rt
+        children:
+          - key: Stack_udk6xwmc
+            children:
+              - key: Text_nwk50zy1
+              - key: Image_ayg3burt
+              - key: Text_zbxoa76e
+              - key: Text_lgm25ohp
+              - key: Button_ghll1qc0

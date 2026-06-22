@@ -1,0 +1,19 @@
+node:
+  key: Scaffold_hp9uu46j
+  body:
+    key: Stack_obdj9ecd
+    children:
+      - key: Image_yxb5wp8g
+      - key: Container_dr4mtpii
+        children:
+          - key: Stack_komcp5ix
+            children:
+              - key: Row_echfoepd
+                children:
+                  - key: IconButton_yjeg1vl8
+                  - key: IconButton_80g37yny
+                  - key: IconButton_rrqih4gh
+                  - key: IconButton_xzmod7v5
+                  - key: IconButton_m624hnkn
+              - key: Container_0q2isv3b
+      - key: Text_3m0qa4ls

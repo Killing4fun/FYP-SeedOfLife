@@ -1,0 +1,86 @@
+database:
+  updateDocument:
+    write:
+      updates:
+        email:
+          fieldIdentifier:
+            name: email
+          variable:
+            source: WIDGET_STATE
+            baseVariable:
+              widgetState:
+                returnParameter:
+                  allowedDestinationTypes:
+                    - Integer
+                    - Double
+                    - Boolean
+                    - ImagePath
+                    - VideoPath
+                    - AudioPath
+                  dataType:
+                    scalarType: String
+            nodeKeyRef:
+              key: TextField_xdf7e8t6
+        display_name:
+          fieldIdentifier:
+            name: display_name
+          variable:
+            source: WIDGET_STATE
+            baseVariable:
+              widgetState:
+                returnParameter:
+                  allowedDestinationTypes:
+                    - Integer
+                    - Double
+                    - Boolean
+                    - ImagePath
+                    - VideoPath
+                    - AudioPath
+                  dataType:
+                    scalarType: String
+            nodeKeyRef:
+              key: TextField_7aoq3k7t
+        user_state:
+          fieldIdentifier:
+            name: user_state
+          variable:
+            source: WIDGET_STATE
+            baseVariable:
+              widgetState:
+                returnParameter:
+                  allowedDestinationTypes:
+                    - Integer
+                    - Double
+                    - Boolean
+                    - ImagePath
+                    - VideoPath
+                    - AudioPath
+                  dataType:
+                    scalarType: String
+            nodeKeyRef:
+              key: TextField_il7lx3c8
+        phone_number:
+          fieldIdentifier:
+            name: phone_number
+          variable:
+            source: WIDGET_STATE
+            baseVariable:
+              widgetState:
+                returnParameter:
+                  allowedDestinationTypes:
+                    - Integer
+                    - Double
+                    - Boolean
+                    - ImagePath
+                    - VideoPath
+                    - AudioPath
+                  dataType:
+                    scalarType: String
+            nodeKeyRef:
+              key: TextField_l3cmhfju
+    reference:
+      source: FIREBASE_AUTH_USER
+      baseVariable:
+        auth:
+          property: USER_REFERENCE
+key: kdlgh3wj

@@ -1,0 +1,40 @@
+key: Button_91elh951
+type: Button
+props:
+  button:
+    text:
+      themeStyle: TITLE_SMALL
+      textValue:
+        inputValue: Upload Image
+      colorValue:
+        inputValue:
+          themeColor: PRIMARY
+    borderRadius:
+      type: FF_BORDER_RADIUS_ALL
+      allValue:
+        inputValue: 8
+    innerPadding:
+      leftValue:
+        inputValue: 16
+      rightValue:
+        inputValue: 16
+    dimensions:
+      height:
+        pixelsValue:
+          inputValue: 40
+    elevationValue:
+      inputValue: 0
+    fillColorValue:
+      inputValue:
+        themeColor: SECONDARY_BACKGROUND
+    borderColorValue:
+      inputValue:
+        themeColor: PRIMARY
+    borderWidthValue:
+      inputValue: 2
+  alignment:
+    xValue:
+      inputValue: 0.526
+    yValue:
+      inputValue: -0.606
+name: uploadimagebtn

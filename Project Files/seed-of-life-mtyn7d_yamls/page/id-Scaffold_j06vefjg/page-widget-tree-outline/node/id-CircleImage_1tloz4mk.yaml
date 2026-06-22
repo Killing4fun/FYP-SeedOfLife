@@ -1,0 +1,21 @@
+key: CircleImage_1tloz4mk
+type: CircleImage
+props:
+  image:
+    type: FF_IMAGE_TYPE_NETWORK
+    fit: FF_BOX_FIT_COVER
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: 140
+      height:
+        pixelsValue:
+          inputValue: 200
+    cacheFadeDuration: 500
+    pathValue:
+      inputValue: https://picsum.photos/seed/94/600
+  alignment:
+    xValue:
+      inputValue: -0.747
+    yValue:
+      inputValue: -0.691

@@ -1,0 +1,19 @@
+key: Text_nwk50zy1
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    selectable: false
+    textValue:
+      inputValue: "Welcome to \nSeedOfLife"
+    fontSizeValue:
+      inputValue: 24
+    fontWeightValue:
+      inputValue: w800
+    textAlignValue:
+      inputValue: ALIGN_CENTER
+  alignment:
+    xValue:
+      inputValue: -0.025
+    yValue:
+      inputValue: -0.718

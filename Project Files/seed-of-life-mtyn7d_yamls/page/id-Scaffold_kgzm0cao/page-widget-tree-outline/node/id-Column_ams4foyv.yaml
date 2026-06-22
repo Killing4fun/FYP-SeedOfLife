@@ -1,0 +1,23 @@
+key: Column_ams4foyv
+type: Column
+props:
+  column:
+    scrollable: true
+    primary: true
+  padding:
+    topValue:
+      inputValue: 90
+databaseRequest:
+  returnParameter:
+    dataType:
+      listType:
+        scalarType: Document
+      subType:
+        collectionIdentifier:
+          name: forum_post
+          key: l3d5h0a0
+  firestore:
+    collectionIdentifier:
+      name: forum_post
+      key: l3d5h0a0
+    hideOnEmpty: false

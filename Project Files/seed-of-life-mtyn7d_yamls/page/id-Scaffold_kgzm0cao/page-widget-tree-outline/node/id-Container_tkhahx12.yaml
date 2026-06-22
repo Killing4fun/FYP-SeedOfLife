@@ -1,0 +1,23 @@
+key: Container_tkhahx12
+type: Container
+props:
+  padding:
+    topValue:
+      inputValue: 28
+  alignment:
+    xValue:
+      inputValue: 0
+    yValue:
+      inputValue: 0.47
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+    animatedOpacity: {}
+parameterValues:
+  parameterPasses: {}
+  widgetClassNodeKeyRef:
+    key: Container_h1j6naev
+valueKey: {}
+componentClassKeyRef:
+  key: Container_h1j6naev

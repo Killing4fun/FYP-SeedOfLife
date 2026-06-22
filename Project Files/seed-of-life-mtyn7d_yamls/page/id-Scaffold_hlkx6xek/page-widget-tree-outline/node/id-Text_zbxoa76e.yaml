@@ -1,0 +1,13 @@
+key: Text_zbxoa76e
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    selectable: false
+    textValue:
+      inputValue: Bring Life to Your Living Space
+  alignment:
+    xValue:
+      inputValue: 0.018
+    yValue:
+      inputValue: 0.154

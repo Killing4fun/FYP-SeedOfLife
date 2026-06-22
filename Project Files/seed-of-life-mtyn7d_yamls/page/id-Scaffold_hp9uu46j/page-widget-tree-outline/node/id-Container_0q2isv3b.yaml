@@ -1,0 +1,12 @@
+key: Container_0q2isv3b
+type: Container
+props:
+  padding:
+    topValue:
+      inputValue: 80
+parameterValues:
+  parameterPasses: {}
+  widgetClassNodeKeyRef:
+    key: Container_vjx2o0xv
+componentClassKeyRef:
+  key: Container_vjx2o0xv

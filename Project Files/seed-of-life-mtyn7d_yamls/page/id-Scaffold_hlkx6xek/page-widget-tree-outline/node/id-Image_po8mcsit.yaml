@@ -1,0 +1,28 @@
+key: Image_po8mcsit
+type: Image
+props:
+  image:
+    type: FF_IMAGE_TYPE_ASSET
+    fit: FF_BOX_FIT_COVER
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: 404.4
+      height:
+        pixelsValue:
+          inputValue: 869.1
+    borderRadius:
+      type: FF_BORDER_RADIUS_ALL
+      allValue:
+        inputValue: 8
+    cacheFadeDuration: 500
+    pathValue:
+      inputValue: projects/seed-of-life-mtyn7d/assets/9blyhuxaataf/6da1fb2ea2e9c12ad22b01cb00557c17488de579.png
+    format: FF_IMAGE_FORMAT_AUTO
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+    animatedOpacity: {}
+parameterValues: {}
+valueKey: {}
