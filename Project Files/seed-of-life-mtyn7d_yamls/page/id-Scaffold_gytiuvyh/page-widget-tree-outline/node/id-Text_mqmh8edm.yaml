@@ -1,0 +1,13 @@
+key: Text_mqmh8edm
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    selectable: false
+    textValue:
+      inputValue: State
+  alignment:
+    xValue:
+      inputValue: -0.7
+    yValue:
+      inputValue: -0.592

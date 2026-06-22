@@ -1,0 +1,23 @@
+key: Icon_guvdxqaq
+type: Icon
+props:
+  icon:
+    sizeValue:
+      inputValue: 30
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+    iconDataValue:
+      inputValue:
+        codePoint: 61737
+        family: FontAwesomeSolid
+        package: font_awesome_flutter
+        matchTextDirection: false
+        packageIcon:
+          fontAwesome: info
+        name: info
+  alignment:
+    xValue:
+      inputValue: 0.792
+    yValue:
+      inputValue: -0.825

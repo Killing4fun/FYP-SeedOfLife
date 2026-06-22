@@ -1,0 +1,32 @@
+key: Image_8d4sajxw
+type: Image
+props:
+  image:
+    type: FF_IMAGE_TYPE_ASSET
+    fit: FF_BOX_FIT_CONTAIN
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: 51.2
+      height:
+        pixelsValue:
+          inputValue: 46.8
+    borderRadius:
+      type: FF_BORDER_RADIUS_ALL
+      allValue:
+        inputValue: 8
+    cacheFadeDuration: 500
+    pathValue:
+      inputValue: projects/seed-of-life-mtyn7d/assets/7hsl1w9btn5z/3497b700ea804d7a2a5d1f0131b589656cb68a44.png
+    format: FF_IMAGE_FORMAT_AUTO
+  alignment:
+    xValue:
+      inputValue: 0.168
+    yValue:
+      inputValue: -0.923
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+    animatedOpacity: {}
+valueKey: {}

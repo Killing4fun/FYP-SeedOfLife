@@ -1,0 +1,32 @@
+key: IconButton_84f1w3u1
+type: IconButton
+props:
+  iconButton:
+    buttonSize:
+      pixelsValue:
+        inputValue: 65.38177083333323
+    fillColorValue:
+      inputValue:
+        themeColor: PRIMARY
+    borderRadiusValue:
+      inputValue: 34
+    iconValue:
+      inputValue:
+        sizeValue:
+          inputValue: 45
+        colorValue:
+          inputValue:
+            themeColor: PRIMARY_BACKGROUND
+        iconDataValue:
+          inputValue:
+            codePoint: 58136
+            family: MaterialIcons
+            matchTextDirection: false
+            name: home
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+    animatedOpacity: {}
+name: tohomebtn
+valueKey: {}

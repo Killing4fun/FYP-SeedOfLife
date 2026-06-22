@@ -1,0 +1,82 @@
+key: DropDown_mh8jp8d6
+type: DropDown
+props:
+  alignment:
+    xValue:
+      inputValue: 0
+    yValue:
+      inputValue: -0.294
+  dropDown:
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: 300
+      height:
+        pixelsValue:
+          inputValue: 40
+    textStyle:
+      themeStyle: BODY_MEDIUM
+    margin:
+      leftValue:
+        inputValue: 12
+      rightValue:
+        inputValue: 12
+    hintText:
+      textValue:
+        inputValue: Select...
+    valueType:
+      dataType:
+        scalarType: String
+    searchHintText:
+      themeStyle: LABEL_MEDIUM
+      textValue:
+        inputValue: Search...
+    fixPosition: true
+    searchTextStyle:
+      themeStyle: BODY_MEDIUM
+    label:
+      themeStyle: LABEL_MEDIUM
+    fillColorValue:
+      inputValue:
+        themeColor: SECONDARY_BACKGROUND
+    elevationValue:
+      inputValue: 2
+    borderRadiusValue:
+      inputValue: 8
+    borderColorValue:
+      inputValue:
+        themeColor: PRIMARY
+    borderWidthValue:
+      inputValue: 0
+    hidesUnderlineValue:
+      inputValue: true
+    iconValue:
+      inputValue:
+        sizeValue:
+          inputValue: 24
+        colorValue:
+          inputValue:
+            themeColor: SECONDARY_TEXT
+        iconDataValue:
+          inputValue:
+            codePoint: 63531
+            family: MaterialIcons
+            matchTextDirection: false
+            name: keyboard_arrow_down_rounded
+    optionsLabels:
+      values:
+        - translatableText:
+            textValue:
+              inputValue: Kampung Baru
+        - translatableText:
+            textValue:
+              inputValue: Shah Alam
+        - translatableText:
+            textValue:
+              inputValue: Johor Bahru
+    optionsValues:
+      values:
+        - serializedValue: Option 1
+        - serializedValue: Option 2
+        - serializedValue: Option 3
+name: regareadropdown

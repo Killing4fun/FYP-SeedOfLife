@@ -1,0 +1,30 @@
+node:
+  key: Scaffold_gytiuvyh
+  body:
+    key: Stack_a4ot9sx2
+    children:
+      - key: Image_zwcz96wy
+      - key: Container_d6rs1qaj
+        children:
+          - key: Stack_pnfhcjld
+            children:
+              - key: Text_g772gehn
+              - key: Text_6po9yvgj
+              - key: Text_mqmh8edm
+              - key: Text_zojdta9h
+              - key: Text_ah3awh3d
+              - key: Text_866g84m3
+              - key: Text_28q51626
+              - key: Text_bepww8np
+              - key: TextField_31ga7xt7
+              - key: DropDown_ro2lxpvx
+              - key: DropDown_mh8jp8d6
+              - key: TextField_euda50ug
+              - key: TextField_asd38xgh
+              - key: TextField_w40h69rx
+              - key: TextField_hg9wplxp
+              - key: Button_m8q3zml4
+              - key: Text_sdhai8pl
+              - key: Button_vs0j2xgq
+      - key: Text_cchbi03u
+      - key: Image_1cyom730

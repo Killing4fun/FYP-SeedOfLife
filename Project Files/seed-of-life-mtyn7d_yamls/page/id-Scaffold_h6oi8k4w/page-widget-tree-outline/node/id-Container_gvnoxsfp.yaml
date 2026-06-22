@@ -1,0 +1,27 @@
+key: Container_gvnoxsfp
+type: Container
+props:
+  container:
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: 463.1
+      height:
+        pixelsValue:
+          inputValue: 580.5749169743152
+    boxDecoration:
+      borderRadius:
+        topLeftValue:
+          inputValue: 15
+        topRightValue:
+          inputValue: 15
+      colorValue:
+        inputValue:
+          themeColor: SECONDARY_BACKGROUND
+    animationDurationValue:
+      inputValue: 100
+  alignment:
+    xValue:
+      inputValue: 0
+    yValue:
+      inputValue: 1.357

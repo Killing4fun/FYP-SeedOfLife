@@ -1,0 +1,13 @@
+key: Text_ah3awh3d
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    selectable: false
+    textValue:
+      inputValue: Email Address
+  alignment:
+    xValue:
+      inputValue: -0.635
+    yValue:
+      inputValue: -0.164

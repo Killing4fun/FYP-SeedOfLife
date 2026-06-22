@@ -1,0 +1,13 @@
+key: Text_28q51626
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    selectable: false
+    textValue:
+      inputValue: Password
+  alignment:
+    xValue:
+      inputValue: -0.655
+    yValue:
+      inputValue: 0.276

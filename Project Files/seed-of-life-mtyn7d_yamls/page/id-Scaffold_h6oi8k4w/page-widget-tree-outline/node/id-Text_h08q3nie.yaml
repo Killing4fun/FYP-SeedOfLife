@@ -1,0 +1,53 @@
+key: Text_h08q3nie
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    selectable: false
+    textValue:
+      variable:
+        source: FIRESTORE_REQUEST
+        defaultValue:
+          serializedValue: "[plant_name]"
+        baseVariable:
+          firestore: {}
+        operations:
+          - accessDocumentField:
+              fieldIdentifier:
+                name: plant_name
+        nodeKeyRef:
+          key: Text_h08q3nie
+      mostRecentInputValue: plant_name
+    fontSizeValue:
+      inputValue: 25
+    fontWeightValue:
+      inputValue: w700
+  alignment:
+    xValue:
+      inputValue: -0.849
+    yValue:
+      inputValue: -0.884
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+    animatedOpacity: {}
+name: plantname
+databaseRequest:
+  returnParameter:
+    dataType:
+      scalarType: Document
+      subType:
+        collectionIdentifier:
+          name: user_plants
+          key: n6zng3ip
+  firestore:
+    collectionIdentifier:
+      name: user_plants
+      key: n6zng3ip
+    orderBy:
+      - collectionFieldIdentifier:
+          name: created_time
+        descending: true
+    hideOnEmpty: true
+valueKey: {}

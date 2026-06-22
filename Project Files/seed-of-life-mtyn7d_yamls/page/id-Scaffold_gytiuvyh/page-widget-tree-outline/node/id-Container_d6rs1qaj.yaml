@@ -1,0 +1,27 @@
+key: Container_d6rs1qaj
+type: Container
+props:
+  container:
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: 469.8
+      height:
+        pixelsValue:
+          inputValue: 782.9138807738982
+    boxDecoration:
+      borderRadius:
+        topLeftValue:
+          inputValue: 15
+        topRightValue:
+          inputValue: 15
+      colorValue:
+        inputValue:
+          themeColor: SECONDARY_BACKGROUND
+    animationDurationValue:
+      inputValue: 100
+  alignment:
+    xValue:
+      inputValue: 0
+    yValue:
+      inputValue: 1.053

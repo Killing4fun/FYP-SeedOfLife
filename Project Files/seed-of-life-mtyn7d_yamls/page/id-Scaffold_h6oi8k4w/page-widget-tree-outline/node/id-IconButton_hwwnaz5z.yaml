@@ -1,0 +1,31 @@
+key: IconButton_hwwnaz5z
+type: IconButton
+props:
+  iconButton:
+    buttonSize:
+      pixelsValue:
+        inputValue: 65.2243158011175
+    fillColorValue:
+      inputValue:
+        themeColor: PRIMARY
+    borderRadiusValue:
+      inputValue: 8
+    iconValue:
+      inputValue:
+        sizeValue:
+          inputValue: 24
+        colorValue:
+          inputValue:
+            themeColor: INFO
+        iconDataValue:
+          inputValue:
+            codePoint: 57415
+            family: MaterialIcons
+            matchTextDirection: false
+            name: add
+  alignment:
+    xValue:
+      inputValue: 0.915
+    yValue:
+      inputValue: 0.31
+name: addnewplantbtn

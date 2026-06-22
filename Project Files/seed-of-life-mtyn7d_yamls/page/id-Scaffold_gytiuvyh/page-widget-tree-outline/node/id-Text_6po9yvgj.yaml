@@ -1,0 +1,13 @@
+key: Text_6po9yvgj
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    selectable: false
+    textValue:
+      inputValue: Name
+  alignment:
+    xValue:
+      inputValue: -0.7
+    yValue:
+      inputValue: -0.801

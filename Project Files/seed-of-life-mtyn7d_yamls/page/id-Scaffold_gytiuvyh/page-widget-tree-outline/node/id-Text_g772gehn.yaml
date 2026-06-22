@@ -1,0 +1,17 @@
+key: Text_g772gehn
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    selectable: false
+    textValue:
+      inputValue: Create New Account
+    fontSizeValue:
+      inputValue: 18
+    fontWeightValue:
+      inputValue: w700
+  alignment:
+    xValue:
+      inputValue: -0.532
+    yValue:
+      inputValue: -0.921

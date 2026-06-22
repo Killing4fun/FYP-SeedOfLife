@@ -1,0 +1,21 @@
+key: Container_8q7b39wl
+type: Container
+props:
+  container:
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: 115.5
+      height:
+        pixelsValue:
+          inputValue: 153.2
+    boxDecoration:
+      borderRadius:
+        type: FF_BORDER_RADIUS_ALL
+        allValue:
+          inputValue: 10
+      colorValue:
+        inputValue:
+          themeColor: PRIMARY_BACKGROUND
+    animationDurationValue:
+      inputValue: 100

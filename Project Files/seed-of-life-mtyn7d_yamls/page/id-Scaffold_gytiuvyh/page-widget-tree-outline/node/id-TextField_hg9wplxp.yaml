@@ -1,0 +1,56 @@
+key: TextField_hg9wplxp
+type: TextField
+props:
+  alignment:
+    xValue:
+      inputValue: 0
+    yValue:
+      inputValue: 0.592
+  textField:
+    textStyle:
+      themeStyle: BODY_MEDIUM
+    inputDecoration:
+      inputBorderType: outline
+      borderRadius:
+        type: FF_BORDER_RADIUS_ALL
+        allValue:
+          inputValue: 8
+      hintStyle:
+        themeStyle: LABEL_MEDIUM
+      labelStyle:
+        themeStyle: LABEL_MEDIUM
+      hintText:
+        textValue:
+          inputValue: Enter Password Confirmation
+      borderColorValue:
+        inputValue:
+          themeColor: PRIMARY
+      filledValue:
+        inputValue: true
+      fillColorValue:
+        inputValue:
+          themeColor: SECONDARY_BACKGROUND
+      borderWidthValue:
+        inputValue: 1
+      denseValue:
+        inputValue: true
+      errorBorderColorValue:
+        inputValue:
+          themeColor: ERROR
+    passwordField: true
+    showClearButton: false
+    width:
+      pixelsValue:
+        inputValue: 300
+    maxLinesValue:
+      inputValue: 1
+    autofocusValue:
+      inputValue: false
+    cursorColorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+    enableInteractiveSelection:
+      inputValue: true
+    enabledValue:
+      inputValue: true
+name: regconfirmpass

@@ -1,0 +1,48 @@
+key: Text_9htsie5b
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    selectable: false
+    textValue:
+      variable:
+        source: FIRESTORE_REQUEST
+        defaultValue:
+          serializedValue: "[watering_guide]"
+        baseVariable:
+          firestore: {}
+        operations:
+          - accessDocumentField:
+              fieldIdentifier:
+                name: plant_watering_guide
+        nodeKeyRef:
+          key: Text_9htsie5b
+    fontSizeValue:
+      inputValue: 28
+    fontWeightValue:
+      inputValue: w700
+    textAlignValue:
+      inputValue: ALIGN_CENTER
+  alignment:
+    xValue:
+      inputValue: -0.44
+    yValue:
+      inputValue: -0.308
+name: plantwaterguide
+databaseRequest:
+  returnParameter:
+    dataType:
+      scalarType: Document
+      subType:
+        collectionIdentifier:
+          name: user_plants
+          key: n6zng3ip
+  firestore:
+    collectionIdentifier:
+      name: user_plants
+      key: n6zng3ip
+    orderBy:
+      - collectionFieldIdentifier:
+          name: created_time
+        descending: true
+    hideOnEmpty: true

@@ -1,0 +1,15 @@
+key: Row_07hznflc
+type: Row
+props:
+  row:
+    mainAxisAlignment: main_axis_space_evenly
+  padding:
+    leftValue:
+      inputValue: 20
+    rightValue:
+      inputValue: 20
+  alignment:
+    xValue:
+      inputValue: 0
+    yValue:
+      inputValue: 0.758

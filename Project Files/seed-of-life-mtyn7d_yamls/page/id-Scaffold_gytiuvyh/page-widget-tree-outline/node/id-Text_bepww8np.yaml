@@ -1,0 +1,13 @@
+key: Text_bepww8np
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    selectable: false
+    textValue:
+      inputValue: Confirm Password
+  alignment:
+    xValue:
+      inputValue: -0.597
+    yValue:
+      inputValue: 0.479

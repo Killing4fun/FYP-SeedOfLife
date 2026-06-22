@@ -1,0 +1,27 @@
+key: Image_gkwyl6br
+type: Image
+props:
+  image:
+    type: FF_IMAGE_TYPE_ASSET
+    fit: FF_BOX_FIT_COVER
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: 139.533469463098
+      height:
+        pixelsValue:
+          inputValue: 200
+    borderRadius:
+      type: FF_BORDER_RADIUS_ALL
+      allValue:
+        inputValue: 8
+    cacheFadeDuration: 500
+    pathValue:
+      inputValue: projects/seed-of-life-mtyn7d/assets/0xne604yjiac/5717878.png
+    format: FF_IMAGE_FORMAT_AUTO
+  alignment:
+    xValue:
+      inputValue: 0.736
+    yValue:
+      inputValue: -0.152
+name: plantimage

@@ -1,0 +1,29 @@
+key: IconButton_007t7t8m
+type: IconButton
+props:
+  iconButton:
+    buttonSize:
+      pixelsValue:
+        inputValue: 49.9
+    borderRadiusValue:
+      inputValue: 8
+    iconValue:
+      inputValue:
+        sizeValue:
+          inputValue: 30
+        colorValue:
+          inputValue:
+            themeColor: PRIMARY
+        iconDataValue:
+          inputValue:
+            codePoint: 57726
+            family: MaterialIcons
+            matchTextDirection: false
+            name: comment
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+    animatedOpacity: {}
+name: toforumbtn
+valueKey: {}

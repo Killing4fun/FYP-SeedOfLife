@@ -1,0 +1,11 @@
+key: Stack_tv0tbahn
+type: Stack
+props:
+  stack:
+    dimensions: {}
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+    animatedOpacity: {}
+valueKey: {}

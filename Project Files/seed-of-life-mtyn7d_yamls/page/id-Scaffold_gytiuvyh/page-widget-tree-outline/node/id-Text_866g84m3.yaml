@@ -1,0 +1,13 @@
+key: Text_866g84m3
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    selectable: false
+    textValue:
+      inputValue: Phone Number
+  alignment:
+    xValue:
+      inputValue: -0.62
+    yValue:
+      inputValue: 0.048

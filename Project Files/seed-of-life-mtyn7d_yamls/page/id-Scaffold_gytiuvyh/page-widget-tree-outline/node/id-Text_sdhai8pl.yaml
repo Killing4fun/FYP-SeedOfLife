@@ -1,0 +1,13 @@
+key: Text_sdhai8pl
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    selectable: false
+    textValue:
+      inputValue: Already have an account?
+  alignment:
+    xValue:
+      inputValue: 0.045
+    yValue:
+      inputValue: 0.828

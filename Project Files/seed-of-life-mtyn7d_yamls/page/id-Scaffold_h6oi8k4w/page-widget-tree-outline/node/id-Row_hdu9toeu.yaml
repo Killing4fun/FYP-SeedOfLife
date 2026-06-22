@@ -1,0 +1,54 @@
+key: Row_hdu9toeu
+type: Row
+props:
+  row:
+    mainAxisAlignment: main_axis_space_evenly
+    scrollable: true
+    listSpacing:
+      spacingValue:
+        inputValue: 15
+  padding:
+    type: FF_PADDING_ALL
+    leftValue:
+      inputValue: 10
+    topValue:
+      inputValue: 10
+    allValue:
+      inputValue: 10
+  alignment:
+    xValue:
+      inputValue: 0
+    yValue:
+      inputValue: -0.583
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+    animatedOpacity: {}
+databaseRequest:
+  returnParameter:
+    dataType:
+      listType:
+        scalarType: Document
+      subType:
+        collectionIdentifier:
+          name: user_plants
+          key: n6zng3ip
+  firestore:
+    collectionIdentifier:
+      name: user_plants
+      key: n6zng3ip
+    hideOnEmpty: false
+    where:
+      filters:
+        - baseFilter:
+            collectionFieldIdentifier:
+              name: user_id
+            relation: EQUAL_TO
+            variable:
+              source: FIREBASE_AUTH_USER
+              baseVariable:
+                auth:
+                  property: USER_REFERENCE
+              dynamicComponentAccess: {}
+valueKey: {}
