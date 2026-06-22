@@ -1,0 +1,19 @@
+userDefinedPermissions:
+  - type: NOTIFICATIONS
+    message:
+      translationIdentifier:
+        key: pz4d8t6r
+      textValue:
+        inputValue: Turned on Notification so you're always aware of your plant condition!
+  - type: LOCATION
+    message:
+      translationIdentifier:
+        key: 2127171v
+      textValue:
+        inputValue: Turned on Location so we can help you detect the closest store near you!
+  - type: CAMERA
+    message:
+      translationIdentifier:
+        key: c1e3go0v
+      textValue:
+        inputValue: Camera are required so we can help you identified what plant is that!

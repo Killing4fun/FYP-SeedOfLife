@@ -1,0 +1,76 @@
+rules:
+  collectionRules:
+    pt50n9ue:
+      creat:
+        everyone: {}
+      read:
+        users: {}
+      update:
+        users: {}
+      delete:
+        authenticatedUsers: {}
+      deleteWhenUserIsDeleted: true
+    n6zng3ip:
+      creat:
+        everyone: {}
+      read:
+        everyone: {}
+      update:
+        noOne: {}
+      delete:
+        noOne: {}
+    d742d7sr:
+      creat:
+        everyone: {}
+      read:
+        everyone: {}
+      update:
+        noOne: {}
+      delete:
+        noOne: {}
+    tdh4g9ys:
+      creat:
+        everyone: {}
+      read:
+        everyone: {}
+      update:
+        noOne: {}
+      delete:
+        noOne: {}
+    l3d5h0a0:
+      creat:
+        everyone: {}
+      read:
+        everyone: {}
+      update:
+        noOne: {}
+      delete:
+        noOne: {}
+    4075lodf:
+      creat:
+        everyone: {}
+      read:
+        everyone: {}
+      update:
+        noOne: {}
+      delete:
+        noOne: {}
+    inw8sq7t:
+      creat:
+        everyone: {}
+      read:
+        everyone: {}
+      update:
+        noOne: {}
+      delete:
+        noOne: {}
+validation:
+  lastValidatedCollectionHash:
+    user: "286495620"
+    user_plants: "15216019"
+    store_loc: "362214872"
+    store_category: "140258351"
+    forum_post: "350357151"
+    forum_comment: "487705895"
+    forum_like: "388868049"
+suppressOnUserDeletedErrors: true

@@ -1,0 +1,20 @@
+rootFolders:
+  - key: 1y5gmsqd
+    name: pages
+  - key: r8ubc7bk
+    name: ChatGPTComponent
+widgetClassKeyToFolderKey:
+  Scaffold_b1cmi7e8: 1y5gmsqd
+  Scaffold_hlkx6xek: 1y5gmsqd
+  Scaffold_rm65fuea: 1y5gmsqd
+  Scaffold_gytiuvyh: 1y5gmsqd
+  Scaffold_h6oi8k4w: 1y5gmsqd
+  Scaffold_nwkrku50: 1y5gmsqd
+  Scaffold_55eqts5a: 1y5gmsqd
+  Scaffold_49wcs7fy: 1y5gmsqd
+  Scaffold_j06vefjg: 1y5gmsqd
+  Scaffold_yeijexma: 1y5gmsqd
+  Container_kdfe3wzi: r8ubc7bk
+  Scaffold_hp9uu46j: 1y5gmsqd
+  Scaffold_kgzm0cao: 1y5gmsqd
+  Scaffold_t29mu2yh: 1y5gmsqd

@@ -1,0 +1,14 @@
+appIconPath: projects/seed-of-life-mtyn7d/assets/7hsl1w9btn5z/3497b700ea804d7a2a5d1f0131b589656cb68a44.png
+splashImage:
+  path: projects/seed-of-life-mtyn7d/assets/7hsl1w9btn5z/3497b700ea804d7a2a5d1f0131b589656cb68a44.png
+  fit: FF_BOX_FIT_CONTAIN
+  dimensions:
+    width:
+      pixelsValue:
+        inputValue: 150
+    height: {}
+  backgroundColor:
+    value: "0"
+errorImagePath: projects/seed-of-life-mtyn7d/assets/9blyhuxaataf/6da1fb2ea2e9c12ad22b01cb00557c17488de579.png
+androidAdaptiveIcon:
+  foregroundImagePath: projects/seed-of-life-mtyn7d/assets/7hsl1w9btn5z/3497b700ea804d7a2a5d1f0131b589656cb68a44.png

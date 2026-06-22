@@ -1,0 +1,18 @@
+name: SeedOfLife
+authPageInfo:
+  homePageNodeKeyRef:
+    key: Scaffold_rm65fuea
+  signInPageNodeKeyRef:
+    key: Scaffold_b1cmi7e8
+appSettings:
+  advancedSettings:
+    webBuildSettings: {}
+routingSettings:
+  enableRouting: true
+  pagesAreSubroutesOfRoot: false
+initialPageKeyRef:
+  key: Scaffold_rm65fuea
+allAppNames:
+  appNames:
+    PROD:
+      packageName: com.mycompany.seedoflife

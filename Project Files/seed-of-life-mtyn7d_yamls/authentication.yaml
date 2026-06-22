@@ -1,0 +1,80 @@
+active: true
+firebase:
+  createUserDocument:
+    collectionIdentifier:
+      name: user
+      key: pt50n9ue
+    write:
+      updates:
+        display_name:
+          fieldIdentifier:
+            name: display_name
+          variable:
+            source: WIDGET_STATE
+            baseVariable:
+              widgetState:
+                returnParameter:
+                  allowedDestinationTypes:
+                    - Integer
+                    - Double
+                    - Boolean
+                    - ImagePath
+                    - VideoPath
+                    - AudioPath
+                  dataType:
+                    scalarType: String
+            nodeKeyRef:
+              key: TextField_31ga7xt7
+        phone_number:
+          fieldIdentifier:
+            name: phone_number
+          variable:
+            source: WIDGET_STATE
+            baseVariable:
+              widgetState:
+                returnParameter:
+                  allowedDestinationTypes:
+                    - Integer
+                    - Double
+                    - Boolean
+                    - ImagePath
+                    - VideoPath
+                    - AudioPath
+                  dataType:
+                    scalarType: String
+            nodeKeyRef:
+              key: TextField_asd38xgh
+        user_state:
+          fieldIdentifier:
+            name: user_state
+          variable:
+            source: WIDGET_STATE
+            baseVariable:
+              widgetState:
+                returnParameter:
+                  dataType:
+                    scalarType: String
+            nodeKeyRef:
+              key: DropDown_ro2lxpvx
+        user_area:
+          fieldIdentifier:
+            name: user_area
+          variable:
+            source: WIDGET_STATE
+            baseVariable:
+              widgetState:
+                returnParameter:
+                  dataType:
+                    scalarType: String
+            nodeKeyRef:
+              key: DropDown_mh8jp8d6
+firebaseConfigFileInfos:
+  - androidPath: users/67zH7gOREONbXnsIlX6B3s4QUPc2/projects/seed-of-life-mtyn7d/configs/tq8ofcb487yk/google-services.json
+    iosPath: users/67zH7gOREONbXnsIlX6B3s4QUPc2/projects/seed-of-life-mtyn7d/configs/291lfwxufmsb/GoogleService-Info.plist
+    webConfig: "\/\/ Copy and paste this into your JavaScript code to initialize the Firebase SDK.\n\/\/ You will also need to load the Firebase SDK.\n\/\/ See https:\/\/firebase.google.com\/docs\/web\/setup for more details.\n\nfirebase.initializeApp({\n  \"projectId\": \"seedoflife-final\",\n  \"appId\": \"1:303493141588:web:42debd90ebc5b9ee0f89c1\",\n  \"storageBucket\": \"seedoflife-final.firebasestorage.app\",\n  \"apiKey\": \"AIzaSyDPivvAokXDAJQmaK5-0k0Ba39VWv8leVw\",\n  \"authDomain\": \"seedoflife-final.firebaseapp.com\",\n  \"messagingSenderId\": \"303493141588\",\n  \"measurementId\": \"G-5DGQ4T1CZ6\",\n  \"projectNumber\": \"303493141588\",\n  \"version\": \"2\"\n});\n"
+    androidPackageNames:
+      - com.mycompany.seedoflife
+    iosBundleId: com.mycompany.seedoflife
+    environment:
+      name: Production
+      key: PROD
