@@ -1,0 +1,15 @@
+key: Text_6wltugfq
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    selectable: false
+    textValue:
+      inputValue: Plant Name
+    fontWeightValue:
+      inputValue: w700
+  alignment:
+    xValue:
+      inputValue: -0.769
+    yValue:
+      inputValue: -0.296

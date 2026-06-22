@@ -1,0 +1,21 @@
+key: Image_1prkeoun
+type: Image
+props:
+  image:
+    type: FF_IMAGE_TYPE_ASSET
+    fit: FF_BOX_FIT_COVER
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: 430
+      height:
+        pixelsValue:
+          inputValue: 901.0111111111111
+    borderRadius:
+      type: FF_BORDER_RADIUS_ALL
+      allValue:
+        inputValue: 8
+    cacheFadeDuration: 500
+    pathValue:
+      inputValue: projects/seed-of-life-mtyn7d/assets/9blyhuxaataf/6da1fb2ea2e9c12ad22b01cb00557c17488de579.png
+    format: FF_IMAGE_FORMAT_AUTO

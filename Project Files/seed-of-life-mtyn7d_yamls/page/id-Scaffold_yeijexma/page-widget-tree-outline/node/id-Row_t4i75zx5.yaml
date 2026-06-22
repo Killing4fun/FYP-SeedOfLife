@@ -1,0 +1,22 @@
+key: Row_t4i75zx5
+type: Row
+props:
+  row:
+    mainAxisAlignment: main_axis_space_evenly
+    listSpacing: {}
+  padding:
+    leftValue:
+      inputValue: 20
+    rightValue:
+      inputValue: 20
+  alignment:
+    xValue:
+      inputValue: 0
+    yValue:
+      inputValue: -0.979
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+    animatedOpacity: {}
+valueKey: {}

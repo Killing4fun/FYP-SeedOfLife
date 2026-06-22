@@ -1,0 +1,9 @@
+auth:
+  type: LOGIN
+  provider: EMAIL
+  emailFieldKeyRef:
+    key: TextField_38fi5gn3
+  passwordFieldKeyRef:
+    key: TextField_odpy7wtj
+  disableAutoNavigate: false
+key: 3q6lj072

@@ -1,0 +1,35 @@
+key: Text_nn0pbbgo
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    autoSize: false
+    selectable: false
+    textValue:
+      variable:
+        source: FIRESTORE_REQUEST
+        baseVariable:
+          firestore: {}
+        operations:
+          - accessDocumentField:
+              fieldIdentifier:
+                name: store_address
+        nodeKeyRef:
+          key: Column_vfi1a9t8
+      mostRecentInputValue: "Lot 37889, Puchong,, Sungai Besi Link Highway,, 57000 Bukit Jalil Mukim Petaling, Federal Territory of Kuala Lumpur"
+    overflowReplacement: FADE
+  padding:
+    leftValue:
+      inputValue: 105
+    topValue:
+      inputValue: 30
+    bottomValue:
+      inputValue: 10
+  alignment:
+    xValue:
+      inputValue: -0.222
+    yValue:
+      inputValue: -0.123
+valueKey:
+  inputValue:
+    serializedValue: "Lot 37889, Puchong,, Sungai Besi Link Highway,, 57000 Bukit Jalil Mukim Petaling, Federal Territory of Kuala Lumpur"

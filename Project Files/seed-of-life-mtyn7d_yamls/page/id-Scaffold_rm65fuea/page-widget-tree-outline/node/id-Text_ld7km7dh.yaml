@@ -1,0 +1,15 @@
+key: Text_ld7km7dh
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    selectable: false
+    textValue:
+      inputValue: User Name
+    fontSizeValue:
+      inputValue: 18
+  alignment:
+    xValue:
+      inputValue: -0.595
+    yValue:
+      inputValue: -0.757

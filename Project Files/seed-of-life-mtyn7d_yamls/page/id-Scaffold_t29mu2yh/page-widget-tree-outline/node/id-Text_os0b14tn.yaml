@@ -1,0 +1,13 @@
+key: Text_os0b14tn
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    selectable: false
+    textValue:
+      inputValue: Content
+  alignment:
+    xValue:
+      inputValue: -0.831
+    yValue:
+      inputValue: -0.698

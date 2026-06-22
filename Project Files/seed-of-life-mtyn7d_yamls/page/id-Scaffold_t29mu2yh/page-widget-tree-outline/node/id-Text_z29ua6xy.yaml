@@ -1,0 +1,20 @@
+key: Text_z29ua6xy
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    selectable: false
+    textValue:
+      inputValue: Post Forum
+    fontSizeValue:
+      inputValue: 23
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY
+    fontWeightValue:
+      inputValue: w800
+  alignment:
+    xValue:
+      inputValue: -0.432
+    yValue:
+      inputValue: -0.872

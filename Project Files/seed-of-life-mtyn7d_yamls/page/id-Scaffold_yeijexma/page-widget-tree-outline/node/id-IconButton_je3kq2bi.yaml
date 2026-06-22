@@ -1,0 +1,29 @@
+key: IconButton_je3kq2bi
+type: IconButton
+props:
+  iconButton:
+    buttonSize:
+      pixelsValue:
+        inputValue: 65.4
+    borderRadiusValue:
+      inputValue: 34
+    iconValue:
+      inputValue:
+        sizeValue:
+          inputValue: 30
+        colorValue:
+          inputValue:
+            themeColor: PRIMARY
+        iconDataValue:
+          inputValue:
+            codePoint: 58136
+            family: MaterialIcons
+            matchTextDirection: false
+            name: home
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+    animatedOpacity: {}
+name: tohomebtn
+valueKey: {}

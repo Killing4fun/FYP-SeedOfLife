@@ -1,0 +1,58 @@
+key: TextField_8umutw4p
+type: TextField
+props:
+  alignment:
+    xValue:
+      inputValue: -0.676
+    yValue:
+      inputValue: 0.869
+  textField:
+    textStyle:
+      themeStyle: BODY_MEDIUM
+      fontSizeValue:
+        inputValue: 18
+    inputDecoration:
+      inputBorderType: outline
+      borderRadius:
+        type: FF_BORDER_RADIUS_ALL
+        allValue:
+          inputValue: 20
+      hintStyle:
+        themeStyle: LABEL_MEDIUM
+        fontSizeValue:
+          inputValue: 18
+      labelStyle:
+        themeStyle: LABEL_MEDIUM
+      hintText:
+        textValue:
+          inputValue: Search
+      borderColorValue:
+        inputValue:
+          themeColor: PRIMARY
+      filledValue:
+        inputValue: true
+      fillColorValue:
+        inputValue:
+          themeColor: SECONDARY_BACKGROUND
+      borderWidthValue:
+        inputValue: 1
+      denseValue:
+        inputValue: true
+      errorBorderColorValue:
+        inputValue:
+          themeColor: ERROR
+    width:
+      pixelsValue:
+        inputValue: 301
+    maxLinesValue:
+      inputValue: 1
+    autofocusValue:
+      inputValue: false
+    cursorColorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+    enableInteractiveSelection:
+      inputValue: true
+    enabledValue:
+      inputValue: true
+name: storesearchfield

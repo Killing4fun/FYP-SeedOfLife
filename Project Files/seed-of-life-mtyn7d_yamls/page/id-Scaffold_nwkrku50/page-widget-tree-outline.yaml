@@ -1,0 +1,20 @@
+node:
+  key: Scaffold_nwkrku50
+  body:
+    key: Stack_bhrkqsrh
+    children:
+      - key: Container_eeojs1zr
+        children:
+          - key: Stack_ugyj5i1e
+            children:
+              - key: IconButton_5n41pryy
+              - key: Text_g452k2xc
+              - key: Image_yqvydvk3
+              - key: Button_200awauy
+              - key: Button_4ufajs2h
+              - key: Text_6wltugfq
+              - key: Text_edxfpfk3
+              - key: TextField_hh60qypq
+              - key: TextField_dea9zi30
+              - key: Button_ypioyqh4
+              - key: TextField_4vlxp9j3

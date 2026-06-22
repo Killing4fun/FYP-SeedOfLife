@@ -1,0 +1,32 @@
+key: Image_3f03vk26
+type: Image
+props:
+  image:
+    type: FF_IMAGE_TYPE_ASSET
+    fit: FF_BOX_FIT_COVER
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: 87.07777777777783
+      height:
+        pixelsValue:
+          inputValue: 95.6
+    borderRadius:
+      type: FF_BORDER_RADIUS_ALL
+      allValue:
+        inputValue: 15
+    cacheFadeDuration: 500
+    showErrorImage: true
+    pathValue:
+      inputValue: projects/seed-of-life-mtyn7d/assets/nomnl2cjwky1/MR_D.I.Y._1_Utama.jpg
+      mostRecentInputValue: https://picsum.photos/seed/265/600
+    format: FF_IMAGE_FORMAT_AUTO
+  padding:
+    leftValue:
+      inputValue: 10
+    topValue:
+      inputValue: 10
+    rightValue:
+      inputValue: 10
+    bottomValue:
+      inputValue: 10

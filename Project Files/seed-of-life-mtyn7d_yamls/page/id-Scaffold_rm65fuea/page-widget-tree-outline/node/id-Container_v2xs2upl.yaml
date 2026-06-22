@@ -1,0 +1,27 @@
+key: Container_v2xs2upl
+type: Container
+props:
+  container:
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: 544.2
+      height:
+        pixelsValue:
+          inputValue: 835.3762370578091
+    boxDecoration:
+      borderRadius:
+        topLeftValue:
+          inputValue: 15
+        topRightValue:
+          inputValue: 15
+      colorValue:
+        inputValue:
+          themeColor: SECONDARY_BACKGROUND
+    animationDurationValue:
+      inputValue: 100
+  alignment:
+    xValue:
+      inputValue: 0
+    yValue:
+      inputValue: 10.393

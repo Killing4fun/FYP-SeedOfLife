@@ -1,0 +1,27 @@
+key: Column_vfi1a9t8
+type: Column
+props:
+  column:
+    primary: true
+  padding:
+    topValue:
+      inputValue: 100
+  alignment:
+    xValue:
+      inputValue: 0
+    yValue:
+      inputValue: 0
+databaseRequest:
+  returnParameter:
+    dataType:
+      listType:
+        scalarType: Document
+      subType:
+        collectionIdentifier:
+          name: store_loc
+          key: d742d7sr
+  firestore:
+    collectionIdentifier:
+      name: store_loc
+      key: d742d7sr
+    hideOnEmpty: false

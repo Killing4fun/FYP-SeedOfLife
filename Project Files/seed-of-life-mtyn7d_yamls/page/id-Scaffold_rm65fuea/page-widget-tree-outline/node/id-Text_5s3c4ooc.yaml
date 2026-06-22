@@ -1,0 +1,13 @@
+key: Text_5s3c4ooc
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    selectable: false
+    textValue:
+      inputValue: Don't have an account yet?
+  alignment:
+    xValue:
+      inputValue: -0.012
+    yValue:
+      inputValue: -0.01

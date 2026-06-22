@@ -1,0 +1,15 @@
+key: Text_0he42kf9
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    selectable: false
+    textValue:
+      inputValue: Password
+    fontSizeValue:
+      inputValue: 18
+  alignment:
+    xValue:
+      inputValue: -0.629
+    yValue:
+      inputValue: -0.502

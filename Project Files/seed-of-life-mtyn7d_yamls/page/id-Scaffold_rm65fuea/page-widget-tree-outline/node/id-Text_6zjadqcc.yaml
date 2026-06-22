@@ -1,0 +1,17 @@
+key: Text_6zjadqcc
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    selectable: false
+    textValue:
+      inputValue: Login
+    fontSizeValue:
+      inputValue: 26
+    fontWeightValue:
+      inputValue: w700
+  alignment:
+    xValue:
+      inputValue: -0.643
+    yValue:
+      inputValue: -0.918

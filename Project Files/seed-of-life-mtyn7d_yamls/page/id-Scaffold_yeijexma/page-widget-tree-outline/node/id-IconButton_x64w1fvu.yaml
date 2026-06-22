@@ -1,0 +1,30 @@
+key: IconButton_x64w1fvu
+type: IconButton
+props:
+  iconButton:
+    buttonSize:
+      pixelsValue:
+        inputValue: 51
+    fillColorValue:
+      inputValue:
+        themeColor: PRIMARY
+    borderRadiusValue:
+      inputValue: 28
+    iconValue:
+      inputValue:
+        sizeValue:
+          inputValue: 31
+        colorValue:
+          inputValue:
+            themeColor: INFO
+        iconDataValue:
+          inputValue:
+            codePoint: 58727
+            family: MaterialIcons
+            matchTextDirection: false
+            name: search
+  alignment:
+    xValue:
+      inputValue: 0.884
+    yValue:
+      inputValue: 0.875

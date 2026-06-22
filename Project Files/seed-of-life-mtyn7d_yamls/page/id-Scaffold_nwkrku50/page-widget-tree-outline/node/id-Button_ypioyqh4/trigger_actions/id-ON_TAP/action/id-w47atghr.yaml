@@ -1,0 +1,112 @@
+database:
+  createDocument:
+    collectionIdentifier:
+      name: user_plants
+      key: n6zng3ip
+    write:
+      updates:
+        user_id:
+          fieldIdentifier:
+            name: user_id
+          variable:
+            source: FIREBASE_AUTH_USER
+            baseVariable:
+              auth:
+                property: USER_REFERENCE
+        plant_name:
+          fieldIdentifier:
+            name: plant_name
+          variable:
+            source: WIDGET_STATE
+            baseVariable:
+              widgetState:
+                returnParameter:
+                  allowedDestinationTypes:
+                    - Integer
+                    - Double
+                    - Boolean
+                    - ImagePath
+                    - VideoPath
+                    - AudioPath
+                  dataType:
+                    scalarType: String
+            nodeKeyRef:
+              key: TextField_hh60qypq
+        plant_placed:
+          fieldIdentifier:
+            name: plant_placed
+          variable:
+            source: WIDGET_STATE
+            baseVariable:
+              widgetState:
+                returnParameter:
+                  allowedDestinationTypes:
+                    - Integer
+                    - Double
+                    - Boolean
+                    - ImagePath
+                    - VideoPath
+                    - AudioPath
+                  dataType:
+                    scalarType: String
+            nodeKeyRef:
+              key: TextField_dea9zi30
+        plant_details:
+          fieldIdentifier:
+            name: plant_details
+          variable:
+            source: WIDGET_STATE
+            baseVariable:
+              widgetState:
+                returnParameter:
+                  allowedDestinationTypes:
+                    - Integer
+                    - Double
+                    - Boolean
+                    - ImagePath
+                    - VideoPath
+                    - AudioPath
+                  dataType:
+                    scalarType: String
+            nodeKeyRef:
+              key: TextField_4vlxp9j3
+        plant_watering_guide:
+          fieldIdentifier:
+            name: plant_watering_guide
+          variable:
+            source: RANDOM_DATA
+            defaultValue:
+              serializedValue: "40"
+            baseVariable:
+              randomData:
+                integer:
+                  min:
+                    inputValue:
+                      serializedValue: "10"
+                  max:
+                    inputValue:
+                      serializedValue: "50"
+                isList: false
+        plant_soil_guide:
+          fieldIdentifier:
+            name: plant_soil_guide
+          variable:
+            source: RANDOM_DATA
+            defaultValue:
+              serializedValue: "80"
+            baseVariable:
+              randomData:
+                integer:
+                  min:
+                    inputValue:
+                      serializedValue: "10"
+                  max:
+                    inputValue:
+                      serializedValue: "100"
+                isList: false
+        created_time:
+          fieldIdentifier:
+            name: created_time
+          fieldValue:
+            fieldValue: FIRESTORE_SERVER_TIMESTAMP
+key: w47atghr

@@ -1,0 +1,56 @@
+key: TextField_odpy7wtj
+type: TextField
+props:
+  alignment:
+    xValue:
+      inputValue: 0.022
+    yValue:
+      inputValue: -0.42
+  textField:
+    textStyle:
+      themeStyle: BODY_MEDIUM
+    inputDecoration:
+      inputBorderType: outline
+      borderRadius:
+        type: FF_BORDER_RADIUS_ALL
+        allValue:
+          inputValue: 8
+      hintStyle:
+        themeStyle: LABEL_MEDIUM
+      labelStyle:
+        themeStyle: LABEL_MEDIUM
+      hintText:
+        textValue:
+          inputValue: Enter Password
+      borderColorValue:
+        inputValue:
+          themeColor: PRIMARY
+      filledValue:
+        inputValue: true
+      fillColorValue:
+        inputValue:
+          themeColor: SECONDARY_BACKGROUND
+      borderWidthValue:
+        inputValue: 1
+      denseValue:
+        inputValue: true
+      errorBorderColorValue:
+        inputValue:
+          themeColor: ERROR
+    passwordField: true
+    showClearButton: false
+    width:
+      pixelsValue:
+        inputValue: 280
+    maxLinesValue:
+      inputValue: 1
+    autofocusValue:
+      inputValue: false
+    cursorColorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+    enableInteractiveSelection:
+      inputValue: true
+    enabledValue:
+      inputValue: true
+name: loginpassword

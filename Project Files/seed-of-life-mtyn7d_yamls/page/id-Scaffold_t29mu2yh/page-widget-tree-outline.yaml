@@ -1,0 +1,14 @@
+node:
+  key: Scaffold_t29mu2yh
+  body:
+    key: Stack_28s0bkq1
+    children:
+      - key: Container_7em3bc09
+        children:
+          - key: Stack_nc7exbzo
+            children:
+              - key: IconButton_pk45t433
+              - key: Text_z29ua6xy
+              - key: TextField_x66ytnkt
+              - key: Button_sa6oru4y
+              - key: Text_os0b14tn

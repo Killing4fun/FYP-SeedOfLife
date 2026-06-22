@@ -1,0 +1,56 @@
+key: TextField_4vlxp9j3
+type: TextField
+props:
+  alignment:
+    xValue:
+      inputValue: -0.103
+    yValue:
+      inputValue: 0.639
+  textField:
+    textStyle:
+      themeStyle: BODY_MEDIUM
+      fontWeightValue:
+        inputValue: w400
+    inputDecoration:
+      inputBorderType: outline
+      borderRadius:
+        type: FF_BORDER_RADIUS_ALL
+        allValue:
+          inputValue: 8
+      hintStyle:
+        themeStyle: LABEL_MEDIUM
+      labelStyle:
+        themeStyle: LABEL_MEDIUM
+      hintText:
+        textValue:
+          inputValue: Enter Plant Details
+      borderColorValue:
+        inputValue:
+          themeColor: PRIMARY
+      filledValue:
+        inputValue: true
+      fillColorValue:
+        inputValue:
+          themeColor: PRIMARY_BACKGROUND
+      borderWidthValue:
+        inputValue: 1
+      denseValue:
+        inputValue: true
+      errorBorderColorValue:
+        inputValue:
+          themeColor: ERROR
+    width:
+      pixelsValue:
+        inputValue: 350
+    maxLinesValue:
+      inputValue: 15
+    autofocusValue:
+      inputValue: false
+    cursorColorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+    enableInteractiveSelection:
+      inputValue: true
+    enabledValue:
+      inputValue: true
+name: plantnamefield

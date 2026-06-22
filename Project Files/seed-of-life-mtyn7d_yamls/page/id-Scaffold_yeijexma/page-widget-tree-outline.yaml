@@ -1,0 +1,29 @@
+node:
+  key: Scaffold_yeijexma
+  body:
+    key: Stack_mm8mettt
+    children:
+      - key: Image_4hgi9kyr
+      - key: Container_sk2hpde6
+        children:
+          - key: Stack_edhe8n7n
+            children:
+              - key: Row_t4i75zx5
+                children:
+                  - key: IconButton_hlysvtwl
+                  - key: IconButton_etqadzx9
+                  - key: IconButton_je3kq2bi
+                  - key: IconButton_3iqvptlc
+                  - key: IconButton_x6ak57wg
+              - key: Column_vfi1a9t8
+                children:
+                  - key: Container_gzqjhgdc
+                    children:
+                      - key: Stack_803uucse
+                        children:
+                          - key: Image_3f03vk26
+                          - key: Text_vrb9pfpg
+                          - key: Text_nn0pbbgo
+              - key: TextField_8umutw4p
+              - key: IconButton_x64w1fvu
+      - key: Text_j97rdiq0

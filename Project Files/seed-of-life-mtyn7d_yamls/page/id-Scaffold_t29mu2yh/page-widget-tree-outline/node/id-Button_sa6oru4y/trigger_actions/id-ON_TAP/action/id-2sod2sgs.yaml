@@ -1,0 +1,27 @@
+database:
+  createDocument:
+    collectionIdentifier:
+      name: forum_post
+      key: l3d5h0a0
+    write:
+      updates:
+        post_description:
+          fieldIdentifier:
+            name: post_description
+          variable:
+            source: WIDGET_STATE
+            baseVariable:
+              widgetState:
+                returnParameter:
+                  allowedDestinationTypes:
+                    - Integer
+                    - Double
+                    - Boolean
+                    - ImagePath
+                    - VideoPath
+                    - AudioPath
+                  dataType:
+                    scalarType: String
+            nodeKeyRef:
+              key: TextField_x66ytnkt
+key: 2sod2sgs
